@@ -1,0 +1,232 @@
+{
+  "rocks_mossy_a": {
+    "source": "polyhaven",
+    "id": "rock_moss_set_01",
+    "name": "Rock Moss Set 01",
+    "url": "https://polyhaven.com/a/rock_moss_set_01",
+    "license": "CC0",
+    "files": [
+      "rock_moss_set_01/rock_moss_set_01.bin",
+      "rock_moss_set_01/rock_moss_set_01.gltf",
+      "rock_moss_set_01/textures/rock_moss_set_01_diff_1k.jpg",
+      "rock_moss_set_01/textures/rock_moss_set_01_nor_gl_1k.jpg",
+      "rock_moss_set_01/textures/rock_moss_set_01_rough_1k.jpg"
+    ],
+    "tileMeters": null,
+    "entry": "rock_moss_set_01/rock_moss_set_01.gltf",
+    "sizeMeters": [
+      8.0,
+      1.77,
+      6.95
+    ],
+    "bytes": 1852708,
+    "note": "6 separate mossy boulders as root nodes (rock01..rock06), laid out over ~8 x 7 m; use individual nodes as boulder variants; Y-up, metres; 1k textures re-encoded (JPEG q85); metallicRoughness texture is Poly Haven ARM (R=AO unused by glTF, G=rough, B=metal)"
+  },
+  "rocks_mossy_b": {
+    "source": "polyhaven",
+    "id": "rock_moss_set_02",
+    "name": "Rock Moss Set 02",
+    "url": "https://polyhaven.com/a/rock_moss_set_02",
+    "license": "CC0",
+    "files": [
+      "rock_moss_set_02/rock_moss_set_02.bin",
+      "rock_moss_set_02/rock_moss_set_02.gltf",
+      "rock_moss_set_02/textures/rock_moss_set_02_diff_1k.jpg",
+      "rock_moss_set_02/textures/rock_moss_set_02_nor_gl_1k.jpg",
+      "rock_moss_set_02/textures/rock_moss_set_02_rough_1k.jpg"
+    ],
+    "tileMeters": null,
+    "entry": "rock_moss_set_02/rock_moss_set_02.gltf",
+    "sizeMeters": [
+      8.28,
+      1.37,
+      3.41
+    ],
+    "bytes": 1842464,
+    "note": "7 separate mossy rocks as root nodes (rock07..rock13), laid out over ~8 x 3.4 m; use individual nodes as variants; Y-up, metres; 1k textures re-encoded (JPEG q85); metallicRoughness texture is Poly Haven ARM (R=AO unused by glTF, G=rough, B=metal)"
+  },
+  "tree_stump": {
+    "source": "polyhaven",
+    "id": "tree_stump_01",
+    "name": "Tree Stump 01",
+    "url": "https://polyhaven.com/a/tree_stump_01",
+    "license": "CC0",
+    "files": [
+      "tree_stump_01/textures/tree_stump_01_arm_1k.jpg",
+      "tree_stump_01/textures/tree_stump_01_diff_1k.jpg",
+      "tree_stump_01/textures/tree_stump_01_nor_gl_1k.jpg",
+      "tree_stump_01/tree_stump_01.bin",
+      "tree_stump_01/tree_stump_01.gltf"
+    ],
+    "tileMeters": null,
+    "entry": "tree_stump_01/tree_stump_01.gltf",
+    "sizeMeters": [
+      1.43,
+      0.57,
+      1.59
+    ],
+    "bytes": 1713735,
+    "note": "tree stump with roots; base sinks ~0.2 m below y=0; Y-up, metres; 1k textures re-encoded (JPEG q85); metallicRoughness texture is Poly Haven ARM (R=AO unused by glTF, G=rough, B=metal)"
+  },
+  "fallen_log": {
+    "source": "polyhaven",
+    "id": "dead_tree_trunk_02",
+    "name": "Dead Tree Trunk 02",
+    "url": "https://polyhaven.com/a/dead_tree_trunk_02",
+    "license": "CC0",
+    "files": [
+      "dead_tree_trunk_02/dead_tree_trunk_02.bin",
+      "dead_tree_trunk_02/dead_tree_trunk_02.gltf",
+      "dead_tree_trunk_02/textures/dead_tree_trunk_02_arm_1k.jpg",
+      "dead_tree_trunk_02/textures/dead_tree_trunk_02_diff_1k.jpg",
+      "dead_tree_trunk_02/textures/dead_tree_trunk_02_nor_gl_1k.jpg"
+    ],
+    "tileMeters": null,
+    "entry": "dead_tree_trunk_02/dead_tree_trunk_02.gltf",
+    "sizeMeters": [
+      4.05,
+      1.06,
+      1.06
+    ],
+    "bytes": 2673080,
+    "note": "~4 m fallen dead trunk lying along X; sinks ~0.3 m below y=0; Y-up, metres; 1k textures re-encoded (JPEG q85); metallicRoughness texture is Poly Haven ARM (R=AO unused by glTF, G=rough, B=metal)"
+  },
+  "crate_military": {
+    "source": "polyhaven",
+    "id": "old_military_crate",
+    "name": "Old Military Crate",
+    "url": "https://polyhaven.com/a/old_military_crate",
+    "license": "CC0",
+    "files": [
+      "old_military_crate/old_military_crate.bin",
+      "old_military_crate/old_military_crate.gltf",
+      "old_military_crate/textures/old_military_crate_arm_1k.jpg",
+      "old_military_crate/textures/old_military_crate_diff_1k.jpg",
+      "old_military_crate/textures/old_military_crate_nor_gl_1k.jpg"
+    ],
+    "tileMeters": null,
+    "entry": "old_military_crate/old_military_crate.gltf",
+    "sizeMeters": [
+      1.82,
+      0.3,
+      0.98
+    ],
+    "bytes": 743854,
+    "note": "two olive-green wooden ammunition crates (a and b) with lids, latches and cloth, side by side; nodes *_a / *_b can be split; Y-up, metres; 1k textures re-encoded (JPEG q85); metallicRoughness texture is Poly Haven ARM (R=AO unused by glTF, G=rough, B=metal)"
+  },
+  "crate_wooden": {
+    "source": "polyhaven",
+    "id": "wooden_military_crate",
+    "name": "Wooden Military Crate",
+    "url": "https://polyhaven.com/a/wooden_military_crate",
+    "license": "CC0",
+    "files": [
+      "wooden_military_crate/textures/wooden_military_crate_arm_1k.jpg",
+      "wooden_military_crate/textures/wooden_military_crate_diff_1k.jpg",
+      "wooden_military_crate/textures/wooden_military_crate_nor_gl_1k.jpg",
+      "wooden_military_crate/wooden_military_crate.bin",
+      "wooden_military_crate/wooden_military_crate.gltf"
+    ],
+    "tileMeters": null,
+    "entry": "wooden_military_crate/wooden_military_crate.gltf",
+    "sizeMeters": [
+      1.24,
+      0.46,
+      0.52
+    ],
+    "bytes": 1202063,
+    "note": "brown wooden military crate with separate lid and latch nodes; Y-up, metres; 1k textures re-encoded (JPEG q85); metallicRoughness texture is Poly Haven ARM (R=AO unused by glTF, G=rough, B=metal)"
+  },
+  "barrel_wooden": {
+    "source": "polyhaven",
+    "id": "wine_barrel_01",
+    "name": "Wine Barrel 01",
+    "url": "https://polyhaven.com/a/wine_barrel_01",
+    "license": "CC0",
+    "files": [
+      "wine_barrel_01/textures/wine_barrel_01_arm_1k.jpg",
+      "wine_barrel_01/textures/wine_barrel_01_diff_1k.jpg",
+      "wine_barrel_01/textures/wine_barrel_01_nor_gl_1k.jpg",
+      "wine_barrel_01/wine_barrel_01.bin",
+      "wine_barrel_01/wine_barrel_01.gltf"
+    ],
+    "tileMeters": null,
+    "entry": "wine_barrel_01/wine_barrel_01.gltf",
+    "sizeMeters": [
+      0.74,
+      0.87,
+      0.76
+    ],
+    "bytes": 847725,
+    "note": "wooden stave barrel with iron hoops (lid, bung and base nodes); Y-up, metres; 1k textures re-encoded (JPEG q85); metallicRoughness texture is Poly Haven ARM (R=AO unused by glTF, G=rough, B=metal)"
+  },
+  "fuel_drum": {
+    "source": "polyhaven",
+    "id": "barrel_03",
+    "name": "Barrel 03",
+    "url": "https://polyhaven.com/a/barrel_03",
+    "license": "CC0",
+    "files": [
+      "barrel_03/barrel_03.bin",
+      "barrel_03/barrel_03.gltf",
+      "barrel_03/textures/barrel_03_arm_1k.jpg",
+      "barrel_03/textures/barrel_03_diff_1k.jpg",
+      "barrel_03/textures/barrel_03_nor_gl_1k.jpg"
+    ],
+    "tileMeters": null,
+    "entry": "barrel_03/barrel_03.gltf",
+    "sizeMeters": [
+      0.63,
+      0.93,
+      0.64
+    ],
+    "bytes": 487533,
+    "note": "painted steel 200 l oil/fuel drum (blue paint, no modern markings); tint baseColor for military olive; Y-up, metres; 1k textures re-encoded (JPEG q85); metallicRoughness texture is Poly Haven ARM (R=AO unused by glTF, G=rough, B=metal)"
+  },
+  "jerrycan": {
+    "source": "polyhaven",
+    "id": "metal_jerrycan_green",
+    "name": "Metal Jerrycan Green",
+    "url": "https://polyhaven.com/a/metal_jerrycan_green",
+    "license": "CC0",
+    "files": [
+      "metal_jerrycan_green/metal_jerrycan_green.bin",
+      "metal_jerrycan_green/metal_jerrycan_green.gltf",
+      "metal_jerrycan_green/textures/metal_jerrycan_green_arm_1k.jpg",
+      "metal_jerrycan_green/textures/metal_jerrycan_green_diff_1k.jpg",
+      "metal_jerrycan_green/textures/metal_jerrycan_green_nor_gl_1k.jpg"
+    ],
+    "tileMeters": null,
+    "entry": "metal_jerrycan_green/metal_jerrycan_green.gltf",
+    "sizeMeters": [
+      0.37,
+      0.5,
+      0.17
+    ],
+    "bytes": 802340,
+    "note": "green steel 20 l jerrycan, WW2 pattern; Y-up, metres; 1k textures re-encoded (JPEG q85); metallicRoughness texture is Poly Haven ARM (R=AO unused by glTF, G=rough, B=metal)"
+  },
+  "lantern": {
+    "source": "polyhaven",
+    "id": "Lantern_01",
+    "name": "Lantern 01",
+    "url": "https://polyhaven.com/a/Lantern_01",
+    "license": "CC0",
+    "files": [
+      "Lantern_01/Lantern_01.bin",
+      "Lantern_01/Lantern_01.gltf",
+      "Lantern_01/textures/Lantern_01_brass_arm_1k.jpg",
+      "Lantern_01/textures/Lantern_01_brass_diff_1k.jpg",
+      "Lantern_01/textures/Lantern_01_brass_nor_gl_1k.jpg"
+    ],
+    "tileMeters": null,
+    "entry": "Lantern_01/Lantern_01.gltf",
+    "sizeMeters": [
+      0.12,
+      0.29,
+      0.1
+    ],
+    "bytes": 1335976,
+    "note": "hurricane/kerosene lantern (brass + glass); glass uses KHR_materials_transmission (supported by three.js GLTFLoader); Y-up, metres; 1k textures re-encoded (JPEG q85); metallicRoughness texture is Poly Haven ARM (R=AO unused by glTF, G=rough, B=metal)"
+  }
+}

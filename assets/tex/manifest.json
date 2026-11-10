@@ -1,0 +1,552 @@
+{
+  "grass": {
+    "source": "polyhaven",
+    "id": "forrest_ground_01",
+    "name": "Forest Ground 01",
+    "url": "https://polyhaven.com/a/forrest_ground_01",
+    "license": "CC0",
+    "files": [
+      "grass_diff.jpg",
+      "grass_nor.jpg",
+      "grass_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "source AO is strong (mean ~0.48); consider aoMapIntensity < 1; arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "forest": {
+    "source": "polyhaven",
+    "id": "forrest_ground_03",
+    "name": "Forest Ground 03",
+    "url": "https://polyhaven.com/a/forrest_ground_03",
+    "license": "CC0",
+    "files": [
+      "forest_diff.jpg",
+      "forest_nor.jpg",
+      "forest_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "source AO is strong (mean ~0.45); consider aoMapIntensity < 1; arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "dirt": {
+    "source": "polyhaven",
+    "id": "dirt",
+    "name": "Dirt",
+    "url": "https://polyhaven.com/a/dirt",
+    "license": "CC0",
+    "files": [
+      "dirt_diff.jpg",
+      "dirt_nor.jpg",
+      "dirt_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "mud": {
+    "source": "polyhaven",
+    "id": "muddy_tracks",
+    "name": "Muddy Tracks",
+    "url": "https://polyhaven.com/a/muddy_tracks",
+    "license": "CC0",
+    "files": [
+      "mud_diff.jpg",
+      "mud_nor.jpg",
+      "mud_arm.jpg"
+    ],
+    "tileMeters": 2.25,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "sand": {
+    "source": "polyhaven",
+    "id": "sand_03",
+    "name": "Sand 03",
+    "url": "https://polyhaven.com/a/sand_03",
+    "license": "CC0",
+    "files": [
+      "sand_diff.jpg",
+      "sand_nor.jpg",
+      "sand_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "snow": {
+    "source": "ambientcg",
+    "id": "Snow006",
+    "name": "Snow 006",
+    "url": "https://ambientcg.com/view?id=Snow006",
+    "license": "CC0",
+    "files": [
+      "snow_diff.jpg",
+      "snow_nor.jpg",
+      "snow_arm.jpg"
+    ],
+    "tileMeters": 2.5,
+    "note": "arm packed from separate maps: R = AO, G = roughness, B = 0 (non-metal)"
+  },
+  "rock": {
+    "source": "ambientcg",
+    "id": "Rock030",
+    "name": "Rock 030",
+    "url": "https://ambientcg.com/view?id=Rock030",
+    "license": "CC0",
+    "files": [
+      "rock_diff.jpg",
+      "rock_nor.jpg",
+      "rock_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "tileMeters estimated (ambientCG gives no size); arm packed from separate maps: R = AO, G = roughness, B = 0 (non-metal)"
+  },
+  "gravel": {
+    "source": "polyhaven",
+    "id": "gravel_floor_02",
+    "name": "Gravel Floor 02",
+    "url": "https://polyhaven.com/a/gravel_floor_02",
+    "license": "CC0",
+    "files": [
+      "gravel_diff.jpg",
+      "gravel_nor.jpg",
+      "gravel_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "cobble": {
+    "source": "polyhaven",
+    "id": "cobblestone_floor_07",
+    "name": "Cobblestone Floor 07",
+    "url": "https://polyhaven.com/a/cobblestone_floor_07",
+    "license": "CC0",
+    "files": [
+      "cobble_diff.jpg",
+      "cobble_nor.jpg",
+      "cobble_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "asphalt": {
+    "source": "polyhaven",
+    "id": "asphalt_01",
+    "name": "Asphalt 01",
+    "url": "https://polyhaven.com/a/asphalt_01",
+    "license": "CC0",
+    "files": [
+      "asphalt_diff.jpg",
+      "asphalt_nor.jpg",
+      "asphalt_arm.jpg"
+    ],
+    "tileMeters": 2.08,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "planks": {
+    "source": "polyhaven",
+    "id": "weathered_planks",
+    "name": "Weathered Planks",
+    "url": "https://polyhaven.com/a/weathered_planks",
+    "license": "CC0",
+    "files": [
+      "planks_diff.jpg",
+      "planks_nor.jpg",
+      "planks_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "concrete": {
+    "source": "polyhaven",
+    "id": "concrete_floor_worn_001",
+    "name": "Concrete Floor Worn 001",
+    "url": "https://polyhaven.com/a/concrete_floor_worn_001",
+    "license": "CC0",
+    "files": [
+      "concrete_diff.jpg",
+      "concrete_nor.jpg",
+      "concrete_arm.jpg"
+    ],
+    "tileMeters": 3.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "field": {
+    "source": "polyhaven",
+    "id": "farm_soil",
+    "name": "Farm Soil",
+    "url": "https://polyhaven.com/a/farm_soil",
+    "license": "CC0",
+    "files": [
+      "field_diff.jpg",
+      "field_nor.jpg",
+      "field_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "leaves": {
+    "source": "polyhaven",
+    "id": "forest_leaves_04",
+    "name": "Forest Leaves 04",
+    "url": "https://polyhaven.com/a/forest_leaves_04",
+    "license": "CC0",
+    "files": [
+      "leaves_diff.jpg",
+      "leaves_nor.jpg",
+      "leaves_arm.jpg"
+    ],
+    "tileMeters": 1.5,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "ash": {
+    "source": "polyhaven",
+    "id": "burned_ground_01",
+    "name": "Burned Ground 01",
+    "url": "https://polyhaven.com/a/burned_ground_01",
+    "license": "CC0",
+    "files": [
+      "ash_diff.jpg",
+      "ash_nor.jpg",
+      "ash_arm.jpg"
+    ],
+    "tileMeters": 1.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "plaster": {
+    "source": "polyhaven",
+    "id": "painted_plaster_wall",
+    "name": "Painted Plaster Wall",
+    "url": "https://polyhaven.com/a/painted_plaster_wall",
+    "license": "CC0",
+    "files": [
+      "plaster_diff.jpg",
+      "plaster_nor.jpg",
+      "plaster_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "plaster_old": {
+    "source": "polyhaven",
+    "id": "worn_mossy_plasterwall",
+    "name": "Worn Mossy Plasterwall",
+    "url": "https://polyhaven.com/a/worn_mossy_plasterwall",
+    "license": "CC0",
+    "files": [
+      "plaster_old_diff.jpg",
+      "plaster_old_nor.jpg",
+      "plaster_old_arm.jpg"
+    ],
+    "tileMeters": 1.8,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "brick": {
+    "source": "polyhaven",
+    "id": "red_brick",
+    "name": "Red Brick",
+    "url": "https://polyhaven.com/a/red_brick",
+    "license": "CC0",
+    "files": [
+      "brick_diff.jpg",
+      "brick_nor.jpg",
+      "brick_arm.jpg"
+    ],
+    "tileMeters": 1.4,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "stone_wall": {
+    "source": "polyhaven",
+    "id": "stone_wall",
+    "name": "Stone Wall",
+    "url": "https://polyhaven.com/a/stone_wall",
+    "license": "CC0",
+    "files": [
+      "stone_wall_diff.jpg",
+      "stone_wall_nor.jpg",
+      "stone_wall_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "wood_wall": {
+    "source": "polyhaven",
+    "id": "brown_planks_04",
+    "name": "Brown Planks 04",
+    "url": "https://polyhaven.com/a/brown_planks_04",
+    "license": "CC0",
+    "files": [
+      "wood_wall_diff.jpg",
+      "wood_wall_nor.jpg",
+      "wood_wall_arm.jpg"
+    ],
+    "tileMeters": 1.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "logs": {
+    "source": "polyhaven",
+    "id": "wood_trunk_wall",
+    "name": "Wood Trunk Wall",
+    "url": "https://polyhaven.com/a/wood_trunk_wall",
+    "license": "CC0",
+    "files": [
+      "logs_diff.jpg",
+      "logs_nor.jpg",
+      "logs_arm.jpg"
+    ],
+    "tileMeters": 1.25,
+    "note": "logs run vertically in the texture; rotate UVs 90 degrees for horizontal log-cabin walls; arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "concrete_wall": {
+    "source": "polyhaven",
+    "id": "wood_textured_concrete",
+    "name": "Wood Textured Concrete",
+    "url": "https://polyhaven.com/a/wood_textured_concrete",
+    "license": "CC0",
+    "files": [
+      "concrete_wall_diff.jpg",
+      "concrete_wall_nor.jpg",
+      "concrete_wall_arm.jpg"
+    ],
+    "tileMeters": 1.8,
+    "note": "board-formed (shuttering) concrete; board marks run vertically; arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "roof_tiles": {
+    "source": "polyhaven",
+    "id": "clay_roof_tiles_03",
+    "name": "Clay Roof Tiles 03",
+    "url": "https://polyhaven.com/a/clay_roof_tiles_03",
+    "license": "CC0",
+    "files": [
+      "roof_tiles_diff.jpg",
+      "roof_tiles_nor.jpg",
+      "roof_tiles_arm.jpg"
+    ],
+    "tileMeters": 2.6,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "roof_slate": {
+    "source": "ambientcg",
+    "id": "RoofingTiles003",
+    "name": "Roofing Tiles 003",
+    "url": "https://ambientcg.com/view?id=RoofingTiles003",
+    "license": "CC0",
+    "files": [
+      "roof_slate_diff.jpg",
+      "roof_slate_nor.jpg",
+      "roof_slate_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "tileMeters estimated; source has no AO map, so arm R = white; arm packed from separate maps: R = AO (white), G = roughness, B = 0 (non-metal)"
+  },
+  "roof_thatch": {
+    "source": "polyhaven",
+    "id": "reed_roof_04",
+    "name": "Reed Roof 04",
+    "url": "https://polyhaven.com/a/reed_roof_04",
+    "license": "CC0",
+    "files": [
+      "roof_thatch_diff.jpg",
+      "roof_thatch_nor.jpg",
+      "roof_thatch_arm.jpg"
+    ],
+    "tileMeters": 2.5,
+    "note": "horizontal thatch courses; one course line per tile; arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "roof_metal": {
+    "source": "polyhaven",
+    "id": "rusty_corrugated_iron",
+    "name": "Rusty Corrugated Iron",
+    "url": "https://polyhaven.com/a/rusty_corrugated_iron",
+    "license": "CC0",
+    "files": [
+      "roof_metal_diff.jpg",
+      "roof_metal_nor.jpg",
+      "roof_metal_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "corrugations run vertically (down the roof slope); arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "wood": {
+    "source": "polyhaven",
+    "id": "rough_wood",
+    "name": "Rough Wood",
+    "url": "https://polyhaven.com/a/rough_wood",
+    "license": "CC0",
+    "files": [
+      "wood_diff.jpg",
+      "wood_nor.jpg",
+      "wood_arm.jpg"
+    ],
+    "tileMeters": 0.5,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "metal": {
+    "source": "polyhaven",
+    "id": "green_metal_rust",
+    "name": "Green Metal Rust",
+    "url": "https://polyhaven.com/a/green_metal_rust",
+    "license": "CC0",
+    "files": [
+      "metal_diff.jpg",
+      "metal_nor.jpg",
+      "metal_arm.jpg"
+    ],
+    "tileMeters": 1.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "canvas": {
+    "source": "polyhaven",
+    "id": "book_pattern",
+    "name": "Book Pattern",
+    "url": "https://polyhaven.com/a/book_pattern",
+    "license": "CC0",
+    "files": [
+      "canvas_diff.jpg",
+      "canvas_nor.jpg",
+      "canvas_arm.jpg"
+    ],
+    "tileMeters": 0.3,
+    "note": "uses the olive-green colour variant (col1) of the source; arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "burlap": {
+    "source": "polyhaven",
+    "id": "hessian_380",
+    "name": "Hessian 380",
+    "url": "https://polyhaven.com/a/hessian_380",
+    "license": "CC0",
+    "files": [
+      "burlap_diff.jpg",
+      "burlap_nor.jpg",
+      "burlap_arm.jpg"
+    ],
+    "tileMeters": 0.27,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "fabric": {
+    "source": "polyhaven",
+    "id": "poly_wool_herringbone",
+    "name": "Poly Wool Herringbone",
+    "url": "https://polyhaven.com/a/poly_wool_herringbone",
+    "license": "CC0",
+    "files": [
+      "fabric_diff.jpg",
+      "fabric_nor.jpg",
+      "fabric_arm.jpg"
+    ],
+    "tileMeters": 0.27,
+    "note": "source was 1024x1045, resized to 1024x1024; arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "bark_pine": {
+    "source": "polyhaven",
+    "id": "pine_bark",
+    "name": "Pine Bark",
+    "url": "https://polyhaven.com/a/pine_bark",
+    "license": "CC0",
+    "files": [
+      "bark_pine_diff.jpg",
+      "bark_pine_nor.jpg",
+      "bark_pine_arm.jpg"
+    ],
+    "tileMeters": 2.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "bark_birch": {
+    "source": "ambientcg",
+    "id": "Bark007",
+    "name": "Bark 007",
+    "url": "https://ambientcg.com/view?id=Bark007",
+    "license": "CC0",
+    "files": [
+      "bark_birch_diff.jpg",
+      "bark_birch_nor.jpg",
+      "bark_birch_arm.jpg"
+    ],
+    "tileMeters": 1.0,
+    "note": "no CC0 white-birch bark found on Poly Haven or ambientCG; pale fissured bark used as the fallback; tileMeters estimated; arm packed from separate maps: R = AO, G = roughness, B = 0 (non-metal)"
+  },
+  "bark_oak": {
+    "source": "polyhaven",
+    "id": "bark_willow_02",
+    "name": "Bark Willow 02",
+    "url": "https://polyhaven.com/a/bark_willow_02",
+    "license": "CC0",
+    "files": [
+      "bark_oak_diff.jpg",
+      "bark_oak_nor.jpg",
+      "bark_oak_arm.jpg"
+    ],
+    "tileMeters": 2.15,
+    "note": "source is willow bark; chosen because it reads as grey, deeply fissured oak-like bark; arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "moss_rock": {
+    "source": "polyhaven",
+    "id": "mossy_rock",
+    "name": "Mossy Rock",
+    "url": "https://polyhaven.com/a/mossy_rock",
+    "license": "CC0",
+    "files": [
+      "moss_rock_diff.jpg",
+      "moss_rock_nor.jpg",
+      "moss_rock_arm.jpg"
+    ],
+    "tileMeters": 3.0,
+    "note": "arm from the Poly Haven arm map (R = AO, G = roughness); B (metalness) set to 0"
+  },
+  "leaves_broad": {
+    "source": "ambientcg",
+    "id": "LeafSet024",
+    "name": "Leaf Set 024",
+    "url": "https://ambientcg.com/view?id=LeafSet024",
+    "license": "CC0",
+    "files": [
+      "leaves_broad_diff.png",
+      "leaves_broad_nor.png"
+    ],
+    "tileMeters": 0.4,
+    "type": "foliage-atlas",
+    "size": "1024x1024",
+    "note": "3x3 atlas of nine single beech-type leaves (each cell ~1/3 of the texture); RGBA PNG: colour + opacity merged into alpha; colour dilated into transparent texels to avoid dark mip halos; use alphaTest ~0.5 (or alphaToCoverage) and side: DoubleSide; normal is OpenGL convention, flat where transparent"
+  },
+  "leaves_pine": {
+    "source": "ambientcg",
+    "id": "LeafSet019",
+    "name": "Leaf Set 019",
+    "url": "https://ambientcg.com/view?id=LeafSet019",
+    "license": "CC0",
+    "files": [
+      "leaves_pine_diff.png",
+      "leaves_pine_nor.png"
+    ],
+    "tileMeters": null,
+    "type": "foliage-atlas",
+    "size": "1024x1024",
+    "note": "three dense conifer (fir/cypress-like) needle sprigs stacked vertically, pointing right (top sprig smaller); real size not given by source; RGBA PNG: colour + opacity merged into alpha; colour dilated into transparent texels to avoid dark mip halos; use alphaTest ~0.5 (or alphaToCoverage) and side: DoubleSide; normal is OpenGL convention, flat where transparent"
+  },
+  "grass_blades": {
+    "source": "polyhaven",
+    "id": "grass_bermuda_01",
+    "name": "Grass Bermuda 01",
+    "url": "https://polyhaven.com/a/grass_bermuda_01",
+    "license": "CC0",
+    "files": [
+      "grass_blades_diff.png",
+      "grass_blades_nor.png"
+    ],
+    "tileMeters": null,
+    "type": "foliage-card",
+    "size": "1024x512",
+    "note": "grass-strip card assembled from the model atlas: 4 upright grass plants behind 4 low tufts, all rooted on the bottom edge (bases at ~y=507 of 512); suited to a 2:1 quad ~0.6 x 0.3 m; RGBA PNG: colour + opacity merged into alpha; colour dilated into transparent texels to avoid dark mip halos; use alphaTest ~0.5 (or alphaToCoverage) and side: DoubleSide; normal is OpenGL convention, flat where transparent"
+  },
+  "fern": {
+    "source": "polyhaven",
+    "id": "fern_02",
+    "name": "Fern 02",
+    "url": "https://polyhaven.com/a/fern_02",
+    "license": "CC0",
+    "files": [
+      "fern_diff.png",
+      "fern_nor.png"
+    ],
+    "tileMeters": null,
+    "type": "foliage-atlas",
+    "size": "1024x1024",
+    "note": "six upright fern fronds (stems toward the bottom); real frond length ~0.5-0.8 m; RGBA PNG: colour + opacity merged into alpha; colour dilated into transparent texels to avoid dark mip halos; use alphaTest ~0.5 (or alphaToCoverage) and side: DoubleSide; normal is OpenGL convention, flat where transparent"
+  }
+}

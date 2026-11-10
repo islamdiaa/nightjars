@@ -1,0 +1,1061 @@
+[
+  {
+    "id": "chopin-polonaise-military",
+    "file": "chopin-polonaise-military.mp3",
+    "title": "Polonaise in A major, Op. 40 No. 1 \"Military\"",
+    "composer": "Frédéric Chopin (1810–1849)",
+    "performer": "Aya Higuchi, piano (Musopen \"Set Chopin Free\", c. 2014)",
+    "license": "Public domain: recording released to the public domain by Musopen; composition PD (composer d. 1849)",
+    "source": "https://commons.wikimedia.org/wiki/File:Chopin_-_Polonaise_No._3_in_A_major,_Op._40_No._1_'Military'_(Aya_Higuchi).flac",
+    "durationSec": 314,
+    "mood": "march",
+    "suggestedFor": [
+      "m01",
+      "m45"
+    ]
+  },
+  {
+    "id": "chopin-nocturne-c-sharp-minor",
+    "file": "chopin-nocturne-c-sharp-minor.mp3",
+    "title": "Nocturne No. 20 in C-sharp minor, B. 49 (\"Lento con gran espressione\")",
+    "composer": "Frédéric Chopin (1810–1849)",
+    "performer": "Frank Lévy, piano (Musopen \"Set Chopin Free\", c. 2014)",
+    "license": "Public domain: recording released to the public domain by Musopen; composition PD (composer d. 1849)",
+    "source": "https://commons.wikimedia.org/wiki/File:Chopin_-_Nocturne_No._20_in_C-sharp_minor,_B._49_(Frank_Levy).flac",
+    "durationSec": 225,
+    "mood": "lament",
+    "suggestedFor": [
+      "m02",
+      "m47"
+    ]
+  },
+  {
+    "id": "elgar-serenade-larghetto",
+    "file": "elgar-serenade-larghetto.mp3",
+    "title": "Serenade for Strings in E minor, Op. 20: II. Larghetto",
+    "composer": "Edward Elgar (1857–1934)",
+    "performer": "United States Army Strings (The US Army Band \"Pershing's Own\")",
+    "license": "Public domain: US government work (US Army Band); composition PD (composer d. 1934; published 1893)",
+    "source": "https://commons.wikimedia.org/wiki/File:Serenade_for_Strings_-mvt-1-_Elgar.ogg",
+    "durationSec": 352,
+    "mood": "lament",
+    "suggestedFor": [
+      "m07",
+      "m10"
+    ]
+  },
+  {
+    "id": "beethoven-symphony-5-i",
+    "file": "beethoven-symphony-5-i.mp3",
+    "title": "Symphony No. 5 in C minor, Op. 67: I. Allegro con brio (exposition and development)",
+    "composer": "Ludwig van Beethoven (1770–1827)",
+    "performer": "Skidmore College Orchestra (Musopen)",
+    "license": "Public domain: recording released to the public domain via Musopen (attribution to Musopen requested); composition PD (composer d. 1827)",
+    "source": "https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_symphony_no._5_in_c_minor,_op._67_-_i._allegro_con_brio.ogg",
+    "durationSec": 265,
+    "mood": "tension",
+    "suggestedFor": [
+      "m18",
+      "m20",
+      "m39",
+      "m42"
+    ]
+  },
+  {
+    "id": "grieg-death-of-aase",
+    "file": "grieg-death-of-aase.mp3",
+    "title": "Peer Gynt Suite No. 1, Op. 46: II. The Death of Åse",
+    "composer": "Edvard Grieg (1843–1907)",
+    "performer": "Musopen Symphony (Czech National Symphony Orchestra), 2012",
+    "license": "Public domain: recording released to the public domain by Musopen (Kickstarter project); composition PD (composer d. 1907)",
+    "source": "https://commons.wikimedia.org/wiki/File:Grieg_-_Peer_Gynt_Suite_No._1,_Op._46_-_II._The_Death_of_Aase_(Musopen_Symphony).flac",
+    "durationSec": 274,
+    "mood": "lament",
+    "suggestedFor": [
+      "m05",
+      "m31"
+    ]
+  },
+  {
+    "id": "dvorak-new-world-largo",
+    "file": "dvorak-new-world-largo.mp3",
+    "title": "Symphony No. 9 in E minor \"From the New World\", Op. 95: II. Largo (opening section)",
+    "composer": "Antonín Dvořák (1841–1904)",
+    "performer": "Orchestra uncredited (Musopen)",
+    "license": "Public domain: recording released to the public domain via Musopen (attribution to Musopen requested); composition PD (composer d. 1904)",
+    "source": "https://commons.wikimedia.org/wiki/File:Antonin_Dvorak_-_symphony_no._9_in_e_minor_'from_the_new_world',_op._95_-_ii._largo.ogg",
+    "durationSec": 184,
+    "mood": "hope",
+    "suggestedFor": [
+      "m24",
+      "m54"
+    ]
+  },
+  {
+    "id": "holst-mars",
+    "file": "holst-mars.mp3",
+    "title": "The Planets, Op. 32: I. Mars, the Bringer of War (first section, to the quiet middle episode)",
+    "composer": "Gustav Holst (1874–1934)",
+    "performer": "Skidmore College Orchestra (Musopen)",
+    "license": "Free with attribution: Musopen release (Commons 'Attribution' licence, credit Musopen; VRT ticket 2008012110017088); composition PD (composer d. 1934; published 1921)",
+    "source": "https://commons.wikimedia.org/wiki/File:Gustav_Holst_-_the_planets,_op._32_-_i._mars,_the_bringer_of_war.ogg",
+    "durationSec": 227,
+    "mood": "tension",
+    "suggestedFor": [
+      "m15",
+      "m29",
+      "m50",
+      "m53"
+    ]
+  },
+  {
+    "id": "cwm-rhondda",
+    "file": "cwm-rhondda.mp3",
+    "title": "Cwm Rhondda (\"Guide Me, O Thou Great Jehovah\"), 30-second excerpt",
+    "composer": "John Hughes (1873–1932); words William Williams Pantycelyn (1717–1791)",
+    "performer": "Burry Port Male Voice Choir (Sain SCD 2353, 2002)",
+    "license": "CC BY-SA 3.0, credit \"Sain (Recordiau) Cyf.\" (permission verified by Wikimedia VRT ticket 2017050910011681); composition PD (composer d. 1932)",
+    "source": "https://commons.wikimedia.org/wiki/File:Cwm_Rhondda_-_Burry_Port_Male_Voice_Choir.ogg",
+    "durationSec": 30,
+    "mood": "hope",
+    "suggestedFor": [
+      "m43",
+      "m27"
+    ]
+  },
+  {
+    "id": "last-post",
+    "file": "last-post.mp3",
+    "title": "The Last Post (bugle call)",
+    "composer": "Traditional British Army bugle call (18th century)",
+    "performer": "Sgt. Codie Lynn Williams, ceremonial bugler, Marine Barracks Washington (US Marine Band ceremonial music, 2012)",
+    "license": "Public domain: US government work (US Marine Corps); traditional composition",
+    "source": "https://commons.wikimedia.org/wiki/File:Last_Post_bugle_call.ogg",
+    "durationSec": 74,
+    "mood": "grief",
+    "suggestedFor": [
+      "m07",
+      "m27",
+      "m44"
+    ]
+  },
+  {
+    "id": "navy-hymn",
+    "file": "navy-hymn.mp3",
+    "title": "Eternal Father, Strong to Save (the Navy Hymn, tune \"Melita\")",
+    "composer": "John Bacchus Dykes (1823–1876)",
+    "performer": "United States Navy Band Ceremonial Band (1992)",
+    "license": "Public domain: US government work (US Navy Band); composition PD (composer d. 1876)",
+    "source": "https://commons.wikimedia.org/wiki/File:Eternal_Father,_Strong_to_Save_(instrumental).ogg",
+    "durationSec": 64,
+    "mood": "sea",
+    "suggestedFor": [
+      "m13",
+      "m17",
+      "m48",
+      "m56"
+    ]
+  },
+  {
+    "id": "tchaikovsky-pathetique-finale",
+    "file": "tchaikovsky-pathetique-finale.mp3",
+    "title": "Symphony No. 6 in B minor \"Pathétique\", Op. 74: IV. Adagio lamentoso (excerpt)",
+    "composer": "Pyotr Ilyich Tchaikovsky (1840–1893)",
+    "performer": "Musopen Symphony (Czech National Symphony Orchestra), 2012",
+    "license": "Public domain: recording released to the public domain by Musopen (Kickstarter project); composition PD (composer d. 1893)",
+    "source": "https://commons.wikimedia.org/wiki/File:Tchaikovsky_-_Symphony_No._6_in_B_minor,_Op._74_'Path%C3%A9tique'_-_IV._Finale_%E2%80%93_Adagio_lamentoso_(Musopen_Symphony).flac",
+    "durationSec": 313,
+    "mood": "lament",
+    "suggestedFor": [
+      "m16",
+      "m35",
+      "m44"
+    ]
+  },
+  {
+    "id": "erquan-yingyue",
+    "file": "erquan-yingyue.mp3",
+    "title": "Erquan Yingyue (二泉映月, \"The Moon Reflected on the Second Spring\"), erhu solo",
+    "composer": "Abing (Hua Yanjun, 1893–1950)",
+    "performer": "Zhang Peijian (张沛坚), erhu; recorded by David290",
+    "license": "CC BY-SA 4.0, credit \"Zhang Peijian\" (permission verified by Wikimedia VRT ticket 2019040110005951); composition PD under the composer-died-before-1955 rule (Abing d. 1950)",
+    "source": "https://commons.wikimedia.org/wiki/File:%E4%BA%8C%E6%B3%89%E6%98%A0%E6%9C%88.ogg",
+    "durationSec": 268,
+    "mood": "east",
+    "suggestedFor": [
+      "m09",
+      "m19",
+      "m22"
+    ]
+  },
+  {
+    "id": "shika-no-tone",
+    "file": "shika-no-tone.mp3",
+    "title": "Shika no Tōne (鹿の遠音, \"Distant Cry of Deer\"), shakuhachi honkyoku",
+    "composer": "Traditional (Kinko-ryū shakuhachi honkyoku)",
+    "performer": "Araki Kodō III (1879–1935), shakuhachi (Victor 13029, recorded c. 1925–1937)",
+    "license": "Public domain: Japanese recording c. 1925–37 (Commons tag PD-Japan-audio); traditional composition",
+    "source": "https://commons.wikimedia.org/wiki/File:Shikanotoone.ogg",
+    "durationSec": 375,
+    "mood": "east",
+    "suggestedFor": [
+      "m37",
+      "m55",
+      "m56"
+    ]
+  },
+  {
+    "id": "la-marseillaise",
+    "file": "la-marseillaise.mp3",
+    "title": "La Marseillaise",
+    "composer": "Claude Joseph Rouget de Lisle (1760–1836)",
+    "performer": "United States Navy Band (c. 1987)",
+    "license": "Public domain: US government work (US Navy Band); composition PD (composer d. 1836)",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Marseillaise.ogg",
+    "durationSec": 79,
+    "mood": "triumph",
+    "suggestedFor": [
+      "m08",
+      "m46"
+    ]
+  },
+  {
+    "id": "bruch-kol-nidrei",
+    "file": "bruch-kol-nidrei.mp3",
+    "title": "Kol Nidrei, Op. 47 (excerpt)",
+    "composer": "Max Bruch (1838–1920)",
+    "performer": "\"The President's Own\" United States Marine Chamber Orchestra (live, 3 March 2013)",
+    "license": "Public domain: US government work (US Marine Band); composition PD (composer d. 1920)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kol_Nidrei_-_Chamber_Orchestra_-_United_States_Marine_Band.opus",
+    "durationSec": 349,
+    "mood": "grief",
+    "suggestedFor": [
+      "m38",
+      "m54"
+    ]
+  },
+  {
+    "id": "aloha-oe",
+    "file": "aloha-oe.mp3",
+    "title": "Aloha ʻOe (waltz medley), Hawaiian guitar duet",
+    "composer": "Queen Liliʻuokalani (1838–1917)",
+    "performer": "William Smith and Walter K. Kolomoku, Hawaiian guitars (cylinder recording, 1915; UCSB Cylinder Audio Archive, Cylinder0985)",
+    "license": "Public domain: US sound recording published 1915 (pre-1923 recordings are PD in the US); composition PD (composer d. 1917)",
+    "source": "https://commons.wikimedia.org/wiki/File:Aloha_oe_waltz_medley.ogg",
+    "durationSec": 221,
+    "mood": "lament",
+    "suggestedFor": [
+      "m17",
+      "m56"
+    ]
+  },
+  {
+    "id": "theme-shoulders-of-giants",
+    "file": "theme-shoulders-of-giants.mp3",
+    "kind": "score",
+    "title": "Shoulders Of Giants",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/shoulders-of-giants/",
+    "credit": "“Shoulders Of Giants” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "title",
+    "moods": [
+      "title",
+      "documentary",
+      "briefing"
+    ],
+    "palette": "any",
+    "durationSec": 192,
+    "edit": "Excerpt 0:00.5–3:12.5 of 7:23.0; faded, loudness-normalised to -18 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -18
+  },
+  {
+    "id": "doc-passage-of-time",
+    "file": "doc-passage-of-time.mp3",
+    "kind": "score",
+    "title": "Passage of Time",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/passage-of-time/",
+    "credit": "“Passage of Time” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "documentary",
+    "moods": [
+      "documentary"
+    ],
+    "palette": "any",
+    "durationSec": 143,
+    "edit": "Excerpt 0:01.0–2:23.9 of 4:31.0; faded, loudness-normalised to -19 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -19
+  },
+  {
+    "id": "briefing-signal-to-noise",
+    "file": "briefing-signal-to-noise.mp3",
+    "kind": "score",
+    "title": "Signal to Noise",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/signal-to-noise/",
+    "credit": "“Signal to Noise” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "briefing",
+    "moods": [
+      "briefing"
+    ],
+    "palette": "any",
+    "durationSec": 156,
+    "edit": "Excerpt 0:00.6–2:36.2 of 5:54.0; faded, loudness-normalised to -20 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -20
+  },
+  {
+    "id": "explore-west-intervention",
+    "file": "explore-west-intervention.mp3",
+    "kind": "score",
+    "title": "Intervention (no-melody mix)",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/intervention/",
+    "credit": "“Intervention (no-melody mix)” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "west",
+    "durationSec": 237,
+    "edit": "Excerpt 0:01.8–3:58.4 of 4:18.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-west-katabasis",
+    "file": "explore-west-katabasis.mp3",
+    "kind": "score",
+    "title": "The Weight of Air – Katabasis I",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/katabasis-i/",
+    "credit": "“The Weight of Air – Katabasis I” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "west",
+    "durationSec": 199,
+    "edit": "Excerpt 0:02.0–3:21.4 of 9:50.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-west-never-dying",
+    "file": "explore-west-never-dying.mp3",
+    "kind": "score",
+    "title": "Never Dying",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/never-dying/",
+    "credit": "“Never Dying” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "west",
+    "durationSec": 160,
+    "edit": "Excerpt 0:02.0–2:41.6 of 6:42.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-snow-computations",
+    "file": "explore-snow-computations.mp3",
+    "kind": "score",
+    "title": "Computations in a Snowstorm (no-cello mix)",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/computations/",
+    "credit": "“Computations in a Snowstorm (no-cello mix)” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "snow",
+    "durationSec": 192,
+    "edit": "Excerpt 0:00.3–3:12.1 of 6:02.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-snow-long-dark",
+    "file": "explore-snow-long-dark.mp3",
+    "kind": "score",
+    "title": "The Long Dark",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/the-long-dark/",
+    "credit": "“The Long Dark” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "snow",
+    "durationSec": 157,
+    "edit": "Excerpt 0:00.4–2:37.3 of 7:20.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-snow-permafrost",
+    "file": "explore-snow-permafrost.mp3",
+    "kind": "score",
+    "title": "Permafrost",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/permafrost/",
+    "credit": "“Permafrost” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "snow",
+    "durationSec": 212,
+    "edit": "Excerpt 0:01.5–3:33.2 of 7:28.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-desert-mystery-bazaar",
+    "file": "explore-desert-mystery-bazaar.mp3",
+    "kind": "score",
+    "title": "Mystery Bazaar",
+    "composer": "Kevin MacLeod",
+    "artist": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700005",
+    "credit": "“Mystery Bazaar” Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "performer": "Kevin MacLeod (incompetech.com)",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "desert",
+    "durationSec": 155,
+    "edit": "Whole piece; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-desert-shadows-and-dust",
+    "file": "explore-desert-shadows-and-dust.mp3",
+    "kind": "score",
+    "title": "Shadows and Dust",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/shadows-and-dust/",
+    "credit": "“Shadows and Dust” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "desert",
+    "durationSec": 195,
+    "edit": "Excerpt 0:01.0–3:15.7 of 6:48.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-med-anguish",
+    "file": "explore-med-anguish.mp3",
+    "kind": "score",
+    "title": "Anguish",
+    "composer": "Kevin MacLeod",
+    "artist": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400047",
+    "credit": "“Anguish” Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "performer": "Kevin MacLeod (incompetech.com)",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "med",
+    "durationSec": 235,
+    "edit": "Whole piece; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-med-recuerdos",
+    "file": "explore-med-recuerdos.mp3",
+    "kind": "score",
+    "title": "Recuerdos de la Alhambra",
+    "composer": "Francisco Tárrega (1852–1909)",
+    "artist": "Carlo Alberto Boni, guitar",
+    "license": "CC BY-SA 3.0 (recording by Carlo Alberto Boni, via Wikimedia Commons); composition public domain. This excerpt is shared under the same licence.",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Recuerdos_de_la_Alhambra.ogg",
+    "credit": "Francisco Tárrega, “Recuerdos de la Alhambra”, performed by Carlo Alberto Boni (Wikimedia Commons), CC BY-SA 3.0; this excerpt is shared under the same licence.",
+    "performer": "Carlo Alberto Boni, guitar",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "med",
+    "durationSec": 239,
+    "edit": "Whole piece; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-med-sardana",
+    "file": "explore-med-sardana.mp3",
+    "kind": "score",
+    "title": "Sardana",
+    "composer": "Kevin MacLeod",
+    "artist": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400055",
+    "credit": "“Sardana” Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "performer": "Kevin MacLeod (incompetech.com)",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "med",
+    "durationSec": 189,
+    "edit": "Whole piece; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-med-teller-of-the-tales",
+    "file": "explore-med-teller-of-the-tales.mp3",
+    "kind": "score",
+    "title": "Teller of the Tales",
+    "composer": "Kevin MacLeod",
+    "artist": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400020",
+    "credit": "“Teller of the Tales” Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "performer": "Kevin MacLeod (incompetech.com)",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "med",
+    "durationSec": 204,
+    "edit": "Excerpt 0:00.3–3:24.4 of 3:32.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-sea-mary-celeste",
+    "file": "explore-sea-mary-celeste.mp3",
+    "kind": "score",
+    "title": "Mary Celeste",
+    "composer": "Kevin MacLeod",
+    "artist": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500016",
+    "credit": "“Mary Celeste” Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "performer": "Kevin MacLeod (incompetech.com)",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "sea",
+    "durationSec": 104,
+    "edit": "Excerpt 0:01.4–1:44.9 of 2:42.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-sea-the-great-sea",
+    "file": "explore-sea-the-great-sea.mp3",
+    "kind": "score",
+    "title": "The Great Sea",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/the-great-sea/",
+    "credit": "“The Great Sea” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "sea",
+    "durationSec": 114,
+    "edit": "Excerpt 0:01.2–1:55.7 of 4:42.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-sea-undertow",
+    "file": "explore-sea-undertow.mp3",
+    "kind": "score",
+    "title": "Undertow",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/undertow/",
+    "credit": "“Undertow” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "sea",
+    "durationSec": 238,
+    "edit": "Excerpt 0:00.6–3:59.0 of 4:10.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-pacific-cicadas",
+    "file": "explore-pacific-cicadas.mp3",
+    "kind": "score",
+    "title": "Cicadas",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/cicadas/",
+    "credit": "“Cicadas” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "pacific",
+    "palettes": [
+      "pacific",
+      "china"
+    ],
+    "durationSec": 201,
+    "edit": "Excerpt 0:03.5–3:24.3 of 6:33.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-pacific-ephemera",
+    "file": "explore-pacific-ephemera.mp3",
+    "kind": "score",
+    "title": "Ephemera",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/ephemera/",
+    "credit": "“Ephemera” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "pacific",
+    "palettes": [
+      "pacific",
+      "sea"
+    ],
+    "durationSec": 170,
+    "edit": "Excerpt 0:02.0–2:51.7 of 5:38.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-pacific-mystic-force",
+    "file": "explore-pacific-mystic-force.mp3",
+    "kind": "score",
+    "title": "Mystic Force",
+    "composer": "Kevin MacLeod",
+    "artist": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500060",
+    "credit": "“Mystic Force” Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "performer": "Kevin MacLeod (incompetech.com)",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "pacific",
+    "durationSec": 141,
+    "edit": "Excerpt 0:00.3–2:21.0 of 3:44.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "explore-china-yangguan-sandie",
+    "file": "explore-china-yangguan-sandie.mp3",
+    "kind": "score",
+    "title": "Yangguan Sandie (Three Refrains on the Yang Pass)",
+    "composer": "Traditional (score from Qinxue Rumen, 1867)",
+    "artist": "Charlie Huang (Charles R Tsua), guqin",
+    "license": "CC BY-SA 3.0 (recording by Charlie Huang, via Wikimedia Commons); the piece is traditional. This excerpt is shared under the same licence.",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Guqin-Yangguan_Sandie.ogg",
+    "credit": "“Yangguan Sandie” (Three Refrains on the Yang Pass), traditional guqin piece, performed by Charlie Huang (Charles R Tsua) (Wikimedia Commons), CC BY-SA 3.0; this excerpt is shared under the same licence.",
+    "performer": "Charlie Huang (Charles R Tsua), guqin",
+    "mood": "explore",
+    "moods": [
+      "explore"
+    ],
+    "palette": "china",
+    "durationSec": 205,
+    "edit": "Excerpt 0:01.3–3:26.5 of 5:50.0; faded, loudness-normalised to -22 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -22
+  },
+  {
+    "id": "tension-anabasis-i",
+    "file": "tension-anabasis-i.mp3",
+    "kind": "score",
+    "title": "The Weight of Air – Anabasis I",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/anabasis-i/",
+    "credit": "“The Weight of Air – Anabasis I” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "tension",
+    "moods": [
+      "tension"
+    ],
+    "palette": "any",
+    "durationSec": 145,
+    "edit": "Excerpt 0:01.8–2:27.0 of 9:21.0; faded, loudness-normalised to -20 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -20
+  },
+  {
+    "id": "tension-katabasis-ii",
+    "file": "tension-katabasis-ii.mp3",
+    "kind": "score",
+    "title": "The Weight of Air – Katabasis II",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/katabasis-ii/",
+    "credit": "“The Weight of Air – Katabasis II” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "tension",
+    "moods": [
+      "tension"
+    ],
+    "palette": "any",
+    "durationSec": 152,
+    "edit": "Excerpt 0:00.8–2:32.8 of 6:51.0; faded, loudness-normalised to -20 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -20
+  },
+  {
+    "id": "tension-oppressive-gloom",
+    "file": "tension-oppressive-gloom.mp3",
+    "kind": "score",
+    "title": "Oppressive Gloom",
+    "composer": "Kevin MacLeod",
+    "artist": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100885",
+    "credit": "“Oppressive Gloom” Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "performer": "Kevin MacLeod (incompetech.com)",
+    "mood": "tension",
+    "moods": [
+      "tension"
+    ],
+    "palette": "any",
+    "durationSec": 171,
+    "edit": "Excerpt 0:00.3–2:51.0 of 3:19.0; faded, loudness-normalised to -20 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -20
+  },
+  {
+    "id": "alarm-clenched-teeth",
+    "file": "alarm-clenched-teeth.mp3",
+    "kind": "score",
+    "title": "Clenched Teeth",
+    "composer": "Kevin MacLeod",
+    "artist": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100705",
+    "credit": "“Clenched Teeth” Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "performer": "Kevin MacLeod (incompetech.com)",
+    "mood": "alarm",
+    "moods": [
+      "alarm"
+    ],
+    "palette": "any",
+    "durationSec": 86,
+    "edit": "Whole piece; faded, loudness-normalised to -16 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -16
+  },
+  {
+    "id": "alarm-endurance",
+    "file": "alarm-endurance.mp3",
+    "kind": "score",
+    "title": "Monomyth – The Endurance",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/the-endurance/",
+    "credit": "“Monomyth – The Endurance” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "alarm",
+    "moods": [
+      "alarm"
+    ],
+    "palette": "any",
+    "durationSec": 114,
+    "edit": "Excerpt 0:38.0–2:32.0 of 4:13.0; faded, loudness-normalised to -16 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -16
+  },
+  {
+    "id": "alarm-exciting-trailer",
+    "file": "alarm-exciting-trailer.mp3",
+    "kind": "score",
+    "title": "Exciting Trailer",
+    "composer": "Kevin MacLeod",
+    "artist": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100494",
+    "credit": "“Exciting Trailer” Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "performer": "Kevin MacLeod (incompetech.com)",
+    "mood": "alarm",
+    "moods": [
+      "alarm"
+    ],
+    "palette": "any",
+    "durationSec": 72,
+    "edit": "Whole piece; faded, loudness-normalised to -18 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -18
+  },
+  {
+    "id": "alarm-hunted",
+    "file": "alarm-hunted.mp3",
+    "kind": "score",
+    "title": "Hunted",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/hunted/",
+    "credit": "“Hunted” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "alarm",
+    "moods": [
+      "alarm"
+    ],
+    "palette": "any",
+    "durationSec": 105,
+    "edit": "Whole piece; faded, loudness-normalised to -16 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -16
+  },
+  {
+    "id": "alarm-legionnaire",
+    "file": "alarm-legionnaire.mp3",
+    "kind": "score",
+    "title": "Legionnaire (2022 Remaster)",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/legionnaire-2022/",
+    "credit": "“Legionnaire (2022 Remaster)” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "alarm",
+    "moods": [
+      "alarm"
+    ],
+    "palette": "any",
+    "durationSec": 122,
+    "edit": "Excerpt 0:01.0–2:02.5 of 3:07.0; faded, loudness-normalised to -16 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -16
+  },
+  {
+    "id": "victory-peaceful-desolation",
+    "file": "victory-peaceful-desolation.mp3",
+    "kind": "score",
+    "title": "Peaceful Desolation",
+    "composer": "Kevin MacLeod",
+    "artist": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200017",
+    "credit": "“Peaceful Desolation” Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "performer": "Kevin MacLeod (incompetech.com)",
+    "mood": "victory",
+    "moods": [
+      "victory"
+    ],
+    "palette": "any",
+    "durationSec": 88,
+    "edit": "Whole piece; faded, loudness-normalised to -19 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -19
+  },
+  {
+    "id": "victory-restoration",
+    "file": "victory-restoration.mp3",
+    "kind": "score",
+    "title": "Monomyth – The Restoration",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/the-restoration/",
+    "credit": "“Monomyth – The Restoration” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "victory",
+    "moods": [
+      "victory"
+    ],
+    "palette": "any",
+    "durationSec": 91,
+    "edit": "Excerpt 0:02.0–1:32.9 of 3:08.0; faded, loudness-normalised to -20 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -20
+  },
+  {
+    "id": "defeat-death-of-kings",
+    "file": "defeat-death-of-kings.mp3",
+    "kind": "score",
+    "title": "Death of Kings",
+    "composer": "Kevin MacLeod",
+    "artist": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100876",
+    "credit": "“Death of Kings” Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "performer": "Kevin MacLeod (incompetech.com)",
+    "mood": "defeat",
+    "moods": [
+      "defeat"
+    ],
+    "palette": "any",
+    "durationSec": 144,
+    "edit": "Whole piece; faded, loudness-normalised to -19 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -19
+  },
+  {
+    "id": "defeat-the-fall",
+    "file": "defeat-the-fall.mp3",
+    "kind": "score",
+    "title": "Monomyth – The Fall",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/the-fall/",
+    "credit": "“Monomyth – The Fall” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "defeat",
+    "moods": [
+      "defeat"
+    ],
+    "palette": "any",
+    "durationSec": 84,
+    "edit": "Excerpt 0:01.0–1:24.8 of 6:23.0; faded, loudness-normalised to -23 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -23
+  },
+  {
+    "id": "letter-grieg-air",
+    "file": "letter-grieg-air.mp3",
+    "kind": "score",
+    "title": "Holberg Suite, Op. 40: IV. Air (Andante religioso)",
+    "composer": "Edvard Grieg (1843–1907)",
+    "artist": "Marine Chamber Orchestra, “The President’s Own” United States Marine Band, Maj Jason K. Fettig, conducting (recorded 17 August 2013)",
+    "license": "Public domain: US government work (United States Marine Band); composition public domain (composer d. 1907)",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Grieg%27s_Suite_for_Strings,_Op._40,_%22From_Holberg%E2%80%99s_Time%22_-_IV._Air_-_Chamber_Orchestra_-_United_States_Marine_Band.mp3",
+    "sourceOriginal": "https://web.archive.org/web/20140812020859/http://www.marineband.marines.mil/AudioResources/WebExclusives.aspx",
+    "credit": "Edvard Grieg, Holberg Suite, Op. 40: IV. Air, performed by the Marine Chamber Orchestra, “The President’s Own” United States Marine Band, conducted by Maj Jason K. Fettig. Public domain.",
+    "performer": "Marine Chamber Orchestra, “The President’s Own” United States Marine Band, Maj Jason K. Fettig, conducting (recorded 17 August 2013)",
+    "mood": "letter",
+    "moods": [
+      "letter"
+    ],
+    "palette": "any",
+    "durationSec": 189,
+    "edit": "Excerpt 0:00.3–3:09.4 of 5:17.0; faded, loudness-normalised to -19 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -19
+  },
+  {
+    "id": "letter-hiraeth",
+    "file": "letter-hiraeth.mp3",
+    "kind": "score",
+    "title": "Hiraeth",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/hiraeth/",
+    "credit": "“Hiraeth” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "letter",
+    "moods": [
+      "letter"
+    ],
+    "palette": "any",
+    "durationSec": 221,
+    "edit": "Excerpt 0:01.8–3:43.2 of 5:46.0; faded, loudness-normalised to -19 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -19
+  },
+  {
+    "id": "letter-in-this-moment",
+    "file": "letter-in-this-moment.mp3",
+    "kind": "score",
+    "title": "In This Moment",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/in-this-moment/",
+    "credit": "“In This Moment” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "letter",
+    "moods": [
+      "letter"
+    ],
+    "palette": "any",
+    "durationSec": 192,
+    "edit": "Excerpt 0:00.3–3:12.8 of 3:20.0; faded, loudness-normalised to -19 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -19
+  },
+  {
+    "id": "epilogue-end-of-all-things",
+    "file": "epilogue-end-of-all-things.mp3",
+    "kind": "score",
+    "title": "At The End Of All Things",
+    "composer": "Scott Buckley",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://www.scottbuckley.com.au/library/at-the-end-of-all-things/",
+    "credit": "“At The End Of All Things” by Scott Buckley – released under CC-BY 4.0. www.scottbuckley.com.au",
+    "performer": "Scott Buckley",
+    "mood": "epilogue",
+    "moods": [
+      "epilogue"
+    ],
+    "palette": "any",
+    "durationSec": 211,
+    "edit": "Excerpt 0:00.4–3:31.0 of 5:17.0; faded, loudness-normalised to -18 LUFS, MP3 128 kbps",
+    "loudnessLUFS": -18
+  }
+]

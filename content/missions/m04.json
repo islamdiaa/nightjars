@@ -1,0 +1,119 @@
+{
+  "id": "m04",
+  "documentary": [
+    {
+      "kind": "history",
+      "date": "1940-01-08",
+      "heading": "Rationing",
+      "narration": "On 8 January Britain begins rationing food. Each person may buy four ounces of bacon or ham, four of butter and twelve of sugar a week, and must register with a chosen shop, handing over coupons from a ration book. The reason lies at sea: U-boats, mines and raiders have been sinking merchant ships every week since September, and the island imports most of what it eats. It is one of the coldest winters in living memory.",
+      "photo": "m04_1.jpg",
+      "caption": "A British wartime ration book, issued to every civilian, with a clothing coupon book.",
+      "credit": "Ministry of Information Photo Division photographer / Imperial War Museums (D 11310)",
+      "license": "Public domain (PD-UKGov)",
+      "source": "https://commons.wikimedia.org/wiki/File:A_ration_book_and_clothing_coupon_book_as_issued_to_British_civilians_during_the_Second_World_War._D11310.jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1940-01-08",
+      "heading": "Suomussalmi",
+      "narration": "In the forests around Suomussalmi, Finnish ski troops under Colonel Hjalmar Siilasvuo have cut two Soviet divisions into isolated pockets, which the Finns call motti, and destroyed them one at a time in temperatures near minus forty. By 8 January the road to Raate is choked with abandoned guns, lorries and frozen horses. The Red Army, humiliated, regroups. On 1 February it throws its full weight against the Mannerheim Line on the Karelian Isthmus.",
+      "photo": "m04_2.jpg",
+      "caption": "The burned-out village of Suomussalmi, photographed in January 1940 after the battle.",
+      "credit": "Unknown photographer / Finnish Defence Forces (SA-kuva)",
+      "license": "Public domain (PD-Finland50)",
+      "source": "https://commons.wikimedia.org/wiki/File:Suomussalmi_vilage.jpg"
+    },
+    {
+      "kind": "file",
+      "date": "1940-01-15",
+      "heading": "Colonel Thorne, private diary",
+      "narration": "War Office approves 'Special Section N'. Establishment: one colonel, two officers, both irregular, and no address. Lt. T. Wrona, Polish Army, arrived via Romania and France: speaks five languages and says nothing in any of them. Miss M. Ashdown, late of Montevideo, whom the naval attaché calls the most dangerous tourist in South America. They have not met. I propose to delay that as long as possible. Motto to follow.",
+      "photo": null
+    },
+    {
+      "kind": "history",
+      "date": "1940-02-10",
+      "heading": "The first deportation",
+      "narration": "Before dawn on 10 February, in a frost far below zero, NKVD squads knock on doors across Soviet-occupied eastern Poland. Families of military settlers, foresters and local officials are given little time to pack. Some 140,000 people, by the most widely cited estimate, are loaded into cattle wagons bound for the forests of northern Russia and Siberia. Many of the children and the old will not survive the journey or the first year. It is the first of four mass deportations.",
+      "photo": "m04_3.jpg",
+      "caption": "The Monument to the Fallen and Murdered in the East, Warsaw: a railway flatcar loaded with crosses, in memory of Poles deported and killed by the Soviet Union (photographed 2023).",
+      "credit": "Adrian Grycuk / Wikimedia Commons",
+      "license": "CC BY 3.0 pl",
+      "source": "https://commons.wikimedia.org/wiki/File:Pomnik_Poleg%C5%82ym_i_Pomordowanym_na_Wschodzie_2023.jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1940-02-16",
+      "heading": "Jøssingfjord",
+      "narration": "Graf Spee's supply ship, the tanker Altmark, has crept down the Norwegian coast with some 299 British merchant seamen locked below. Norwegian officers have boarded her three times and never searched the holds. On the 16th RAF aircraft find her off Egersund. She runs into the narrow Jøssingfjord, with Norwegian torpedo boats standing guard. That night the destroyer HMS Cossack, Captain Philip Vian, follows her in. The order from Churchill at the Admiralty is plain: board her.",
+      "photo": "m04_4.jpg",
+      "caption": "RAF reconnaissance photograph of the German supply ship Altmark in Jøssingfjord, Norway, February 1940.",
+      "credit": "Royal Air Force official photographer / Imperial War Museums (CS 24)",
+      "license": "Public domain (PD-UKGov)",
+      "source": "https://commons.wikimedia.org/wiki/File:Altmark_in_J%C3%B8ssingfjord.jpg"
+    }
+  ],
+  "briefing": {
+    "from": "Colonel Arthur Thorne",
+    "text": "Lieutenant Wrona. Miss Ashdown. You have not been introduced. Consider it done, and kindly keep the fjord between your opinions. Tonight Cossack goes into Jøssingfjord after the German tanker Altmark. The Norwegians swear she carries nobody but her own crew. We believe some three hundred of our merchant seamen are battened down below. Captain Vian will put his boarding party across from the destroyer. You go first, and quieter. Altmark lies close in against the shore ice, so board her from the ice, over the stern. Then take the bridge, before anyone can signal Berlin or open the sea-cocks. Next find the three cargo holds and open them; expect locks and possibly wire. Last, bring the men up and lead them to Cossack's gangway. They will be weak, some of them ill. Move at the pace of the slowest. Norwegian torpedo boats are watching. You will not fire on them in any circumstances. This is the Section's first outing. I should be obliged if it were not its last."
+  },
+  "dialogue": [
+    {
+      "who": "kit",
+      "line": "So you're the Pole who doesn't talk. Splendid. I'll manage for both of us."
+    },
+    {
+      "who": "wrona",
+      "line": "Miss Ashdown. I was told you were dangerous. Nobody mentioned loud."
+    },
+    {
+      "who": "kit",
+      "line": "Ice, a tanker and three hundred sailors. The Colonel does know how to show a girl an evening."
+    },
+    {
+      "who": "wrona",
+      "line": "Step where the ice is grey. Grey ice holds. White ice lies."
+    },
+    {
+      "who": "kit",
+      "line": "Noted. Shall I stop breathing as well?"
+    },
+    {
+      "who": "wrona",
+      "line": "If possible."
+    }
+  ],
+  "victory": {
+    "who": "kit",
+    "line": "They came up blinking into the snow, and one of them kissed Cossack's gangway. Our Polish friend pretended not to see. I still don't like him. I may have to respect him, which is worse."
+  },
+  "aftermath": {
+    "narration": "At about 22:20 Cossack's boarding party leapt across to Altmark, which had run aground trying to ram the destroyer. Seven or eight German sailors were killed in the fighting. In the holds the prisoners heard the shout the British press would make famous: 'The Navy's here!' Cossack reached Leith on 17 February to cheering crowds. Norway protested the violation of its neutrality. On the 19th Hitler ordered planning for the invasion of Norway and Denmark to be speeded up. Collaborators later sneered at Norwegian patriots as 'jøssings'; the patriots wore the word with pride.",
+    "photo": "m04_after.jpg",
+    "caption": "HMS Cossack returns to Leith on 17 February 1940 after freeing the British prisoners held aboard Altmark.",
+    "credit": "Royal Navy official photographer / Imperial War Museums",
+    "license": "Public domain (PD-UKGov)",
+    "source": "https://commons.wikimedia.org/wiki/File:HMS-Cossack-returns-to-Leith-17-February-1940.jpg"
+  },
+  "letter": {
+    "from": "wrona",
+    "to": "Mama, Warsaw (Red Cross message, 25 words permitted)",
+    "date": "1940-02-20",
+    "text": "Mama. I am healthy, warm and well fed, all three almost true. The English are strange but kind. Eat more, pray less. Kiss Zosia. Tomasz."
+  },
+  "facts": [
+    "Altmark held about 299 British merchant seamen taken from ships sunk by Graf Spee. German records list 303.",
+    "Norwegian officers boarded Altmark three times on 15 February 1940 but never searched the holds where the prisoners were kept.",
+    "'Jøssing', from Jøssingfjord, was coined by Norway's collaborators as an insult. It became a proud name for anti-Nazi Norwegians and was banned from official use by 1943.",
+    "British food rationing began on 8 January 1940 with bacon or ham, butter and sugar. Meat followed in March.",
+    "At Suomussalmi, in December 1939 and January 1940, Finnish troops destroyed two Soviet divisions by cutting their road-bound columns into isolated pockets, or 'motti'."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Altmark_incident",
+    "https://en.wikipedia.org/wiki/Rationing_in_the_United_Kingdom",
+    "https://en.wikipedia.org/wiki/Battle_of_Suomussalmi",
+    "https://en.wikipedia.org/wiki/Soviet_deportations_from_Poland_(1940%E2%80%931941)",
+    "https://www.iwm.org.uk/history/what-you-need-to-know-about-rationing-in-the-second-world-war"
+  ],
+  "corrections": []
+}

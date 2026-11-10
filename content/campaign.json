@@ -1,0 +1,1559 @@
+{
+ "title": "NIGHTJARS",
+ "subtitle": "2,194 Days",
+ "warStart": "1939-09-01",
+ "warEnd": "1945-09-02",
+ "acts": [
+  {
+   "n": 1,
+   "year": "1939",
+   "title": "The Fall"
+  },
+  {
+   "n": 2,
+   "year": "1940",
+   "title": "Alone"
+  },
+  {
+   "n": 3,
+   "year": "1941",
+   "title": "The World Ablaze"
+  },
+  {
+   "n": 4,
+   "year": "1942",
+   "title": "The Turning"
+  },
+  {
+   "n": 5,
+   "year": "1943",
+   "title": "The Tide"
+  },
+  {
+   "n": 6,
+   "year": "1944",
+   "title": "Liberation"
+  },
+  {
+   "n": 7,
+   "year": "1945",
+   "title": "The Long Way Home"
+  }
+ ],
+ "missions": [
+  {
+   "id": "m01",
+   "act": 1,
+   "title": "First Light",
+   "date": "1939-09-01",
+   "place": "Tuchola Forest, Pomerania",
+   "country": "Poland",
+   "lat": 53.7,
+   "lon": 17.6,
+   "theatre": "Eastern Europe",
+   "basis": "inspired",
+   "event": "At dawn Germany invades Poland from the north, west and south; in the Pomeranian Corridor the 18th Pomeranian Uhlans fight at Krojanty that evening.",
+   "heroes": [
+    "wrona"
+   ],
+   "time": "dawn",
+   "weather": "fog",
+   "biome": "forest",
+   "type": "infiltration (tutorial)",
+   "objectives": [
+    "Reach the courier's wrecked car in the forest",
+    "Recover the dispatch satchel",
+    "Slip through the German advance to the Polish lines"
+   ]
+  },
+  {
+   "id": "m02",
+   "act": 1,
+   "title": "The Kuty Bridge",
+   "date": "1939-09-17",
+   "place": "Kuty, on the Czeremosz river",
+   "country": "Poland / Romania",
+   "lat": 48.26,
+   "lon": 25.18,
+   "theatre": "Eastern Europe",
+   "basis": "inspired",
+   "event": "The Soviet Union invades Poland from the east. That night the Polish government and the staff of the Cipher Bureau, who had broken Enigma, cross the Kuty bridge into Romania.",
+   "heroes": [
+    "wrona"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "river-town",
+   "type": "escort",
+   "objectives": [
+    "Find the three cipher specialists hiding in the town",
+    "Escort them past the patrols to the bridge",
+    "Destroy the cipher notes they cannot carry",
+    "Cross into Romania before dawn"
+   ]
+  },
+  {
+   "id": "m03",
+   "act": 1,
+   "title": "Montevideo Whispers",
+   "date": "1939-12-15",
+   "place": "Port of Montevideo",
+   "country": "Uruguay",
+   "lat": -34.9,
+   "lon": -56.21,
+   "theatre": "South Atlantic",
+   "basis": "inspired",
+   "event": "After the Battle of the River Plate the damaged Admiral Graf Spee shelters in neutral Montevideo. British agents spread rumours of a great fleet waiting offshore; on 17 December Captain Langsdorff scuttles his ship.",
+   "heroes": [
+    "kit"
+   ],
+   "time": "dusk",
+   "weather": "clear",
+   "biome": "harbour-city",
+   "type": "agent (no lethal force)",
+   "objectives": [
+    "Photograph the shell damage to the Graf Spee from the quay",
+    "Plant the false fleet signal in the German naval attache's briefcase",
+    "Leave the harbour without harming anyone - Uruguay is neutral"
+   ]
+  },
+  {
+   "id": "m04",
+   "act": 2,
+   "title": "The Navy's Here",
+   "date": "1940-02-16",
+   "place": "Jossingfjord",
+   "country": "Norway",
+   "lat": 58.32,
+   "lon": 6.34,
+   "theatre": "Northern Europe",
+   "basis": "real",
+   "event": "HMS Cossack pursues the German supply ship Altmark into Jossingfjord and boards her, freeing 299 British merchant seamen held in her holds.",
+   "heroes": [
+    "wrona",
+    "kit"
+   ],
+   "time": "night",
+   "weather": "snow",
+   "biome": "fjord-ship",
+   "type": "boarding / rescue",
+   "objectives": [
+    "Board the Altmark from the ice",
+    "Take the bridge",
+    "Open the three cargo holds",
+    "Lead the prisoners to the Cossack's gangway"
+   ]
+  },
+  {
+   "id": "m05",
+   "act": 2,
+   "title": "Gold Run",
+   "date": "1940-04-09",
+   "place": "Road north from Oslo",
+   "country": "Norway",
+   "lat": 60.8,
+   "lon": 10.7,
+   "theatre": "Northern Europe",
+   "basis": "inspired",
+   "event": "Germany invades Norway and Denmark. As German troops land at Oslo, 50 tonnes of Norway's gold reserve leave the city by truck, beginning a two-month flight that ends in Britain.",
+   "heroes": [
+    "haugland",
+    "wrona",
+    "kit"
+   ],
+   "time": "night",
+   "weather": "snow",
+   "biome": "snow-forest",
+   "type": "escort / sabotage",
+   "objectives": [
+    "Clear the German roadblock at the bridge",
+    "Blow the bridge behind the last gold truck",
+    "Keep every truck moving - none may be captured"
+   ]
+  },
+  {
+   "id": "m06",
+   "act": 2,
+   "title": "Diamonds of Amsterdam",
+   "date": "1940-05-13",
+   "place": "Amsterdam and IJmuiden",
+   "country": "Netherlands",
+   "lat": 52.37,
+   "lon": 4.9,
+   "theatre": "Western Europe",
+   "basis": "inspired",
+   "event": "As the Netherlands falls, a British officer gathers the city's stock of industrial diamonds, vital for machine tools, and carries them out through IJmuiden ahead of the German army.",
+   "heroes": [
+    "kit",
+    "wrona",
+    "haugland"
+   ],
+   "time": "night",
+   "weather": "rain",
+   "biome": "canal-city",
+   "type": "heist",
+   "objectives": [
+    "Open the safes of three diamond dealers",
+    "Bring the diamond cases to the car on the Prinsengracht",
+    "Reach the boat at IJmuiden before German motorcyclists close the road"
+   ]
+  },
+  {
+   "id": "m07",
+   "act": 2,
+   "title": "The Mole",
+   "date": "1940-06-02",
+   "place": "Dunkirk",
+   "country": "France",
+   "lat": 51.04,
+   "lon": 2.38,
+   "theatre": "Western Europe",
+   "basis": "inspired",
+   "event": "Operation Dynamo enters its last nights. The British and French rearguard hold the perimeter while ships lift soldiers from the beaches and the long East Mole.",
+   "heroes": [
+    "prys",
+    "wrona",
+    "ndiaye"
+   ],
+   "time": "night",
+   "weather": "smoke",
+   "biome": "ruined-port",
+   "type": "escort / timed",
+   "objectives": [
+    "Gather the cut-off stragglers in the burning town",
+    "Destroy the abandoned fuel dump",
+    "Reach the East Mole before the last destroyer sails"
+   ]
+  },
+  {
+   "id": "m08",
+   "act": 2,
+   "title": "Broompark",
+   "date": "1940-06-19",
+   "place": "Bordeaux docks",
+   "country": "France",
+   "lat": 44.86,
+   "lon": -0.55,
+   "theatre": "Western Europe",
+   "basis": "inspired",
+   "event": "As France collapses, the Earl of Suffolk loads the collier SS Broompark at Bordeaux with French scientists, the world's stock of heavy water, industrial diamonds and machine tools, and sails for England.",
+   "heroes": [
+    "kit",
+    "haugland",
+    "ndiaye"
+   ],
+   "time": "day",
+   "weather": "clear",
+   "biome": "docks",
+   "type": "escort / defence",
+   "objectives": [
+    "Escort the two physicists to the Broompark",
+    "Deliver the 26 cans of heavy water to the hold",
+    "Stop the infiltrators from sabotaging the ship"
+   ]
+  },
+  {
+   "id": "m09",
+   "act": 2,
+   "title": "Hundred Regiments",
+   "date": "1940-08-20",
+   "place": "Zhengtai railway, Shanxi",
+   "country": "China",
+   "lat": 37.9,
+   "lon": 113.6,
+   "theatre": "China",
+   "basis": "inspired",
+   "event": "China has fought Japan alone since 1937. On 20 August the Eighth Route Army opens the Hundred Regiments Offensive against the railways and blockhouses that hold northern China.",
+   "heroes": [
+    "limei"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "loess-hills",
+   "type": "sabotage",
+   "objectives": [
+    "Cut the telegraph line",
+    "Blow the railway in three places",
+    "Destroy the blockhouse ammunition store",
+    "Withdraw to the hills"
+   ]
+  },
+  {
+   "id": "m10",
+   "act": 2,
+   "title": "Sea Lion",
+   "date": "1940-09-15",
+   "place": "Boulogne harbour",
+   "country": "France",
+   "lat": 50.72,
+   "lon": 1.6,
+   "theatre": "Western Europe",
+   "basis": "inspired",
+   "event": "The Battle of Britain reaches its climax. Across the Channel, invasion barges crowd the ports; two days later Hitler postpones Operation Sea Lion.",
+   "heroes": [
+    "haugland",
+    "prys",
+    "wrona"
+   ],
+   "time": "night",
+   "weather": "rain",
+   "biome": "harbour",
+   "type": "sabotage",
+   "objectives": [
+    "Mine three clusters of invasion barges",
+    "Destroy the harbour crane",
+    "Get back to the motor launch"
+   ]
+  },
+  {
+   "id": "m11",
+   "act": 3,
+   "title": "Murzuk",
+   "date": "1941-01-11",
+   "place": "Murzuk, Fezzan",
+   "country": "Libya",
+   "lat": 25.92,
+   "lon": 13.92,
+   "theatre": "North Africa",
+   "basis": "real",
+   "event": "The Long Range Desert Group and Free French troops from Chad cross some 1,300 miles of desert to raid the Italian airfield and fort at Murzuk.",
+   "heroes": [
+    "ndiaye",
+    "prys",
+    "wrona"
+   ],
+   "time": "day",
+   "weather": "heat",
+   "biome": "desert",
+   "type": "raid",
+   "objectives": [
+    "Destroy the aircraft on the airfield",
+    "Burn the fuel dump",
+    "Cut the telephone line to Sebha",
+    "Withdraw to the trucks"
+   ]
+  },
+  {
+   "id": "m12",
+   "act": 3,
+   "title": "Claymore",
+   "date": "1941-03-04",
+   "place": "Svolvaer, Lofoten Islands",
+   "country": "Norway",
+   "lat": 68.23,
+   "lon": 14.57,
+   "theatre": "Northern Europe",
+   "basis": "real",
+   "event": "Commandos raid the Lofoten Islands, destroying fish-oil factories and capturing spare Enigma rotor wheels and code documents from the armed trawler Krebs.",
+   "heroes": [
+    "haugland",
+    "wrona",
+    "prys"
+   ],
+   "time": "dawn",
+   "weather": "snow",
+   "biome": "snow-harbour",
+   "type": "raid",
+   "objectives": [
+    "Blow the fish-oil tanks",
+    "Board the trawler Krebs and seize the Enigma rotors",
+    "Bring the Norwegian volunteers to the landing craft"
+   ]
+  },
+  {
+   "id": "m13",
+   "act": 3,
+   "title": "Primrose",
+   "date": "1941-05-09",
+   "place": "North Atlantic, south-east of Greenland",
+   "country": "At sea",
+   "lat": 60.3,
+   "lon": -33.2,
+   "theatre": "Atlantic",
+   "basis": "real",
+   "event": "HMS Bulldog forces U-110 to the surface. A boarding party recovers her Enigma machine and codebooks before she sinks, one of the war's great intelligence prizes.",
+   "heroes": [
+    "wrona",
+    "haugland"
+   ],
+   "time": "day",
+   "weather": "storm",
+   "biome": "uboat",
+   "type": "boarding / timed",
+   "objectives": [
+    "Board the U-boat before she sinks",
+    "Defuse the scuttling charges",
+    "Recover the Enigma machine and codebooks",
+    "Return to the whaler"
+   ]
+  },
+  {
+   "id": "m14",
+   "act": 3,
+   "title": "Litani",
+   "date": "1941-06-09",
+   "place": "Qasmiyeh bridge, Litani River",
+   "country": "Lebanon",
+   "lat": 33.33,
+   "lon": 35.25,
+   "theatre": "Middle East",
+   "basis": "real",
+   "event": "No. 11 (Scottish) Commando lands at the mouth of the Litani to open the crossing for the Allied advance into Vichy-held Syria and Lebanon; the defenders blow the Qasmiyeh bridge before it can be taken.",
+   "heroes": [
+    "ndiaye",
+    "prys",
+    "wrona"
+   ],
+   "time": "dawn",
+   "weather": "clear",
+   "biome": "river-mouth",
+   "type": "assault",
+   "objectives": [
+    "Secure the crossing at the Qasmiyeh bridge",
+    "Silence the redoubt guns",
+    "Hold the north bank until the Australians cross"
+   ]
+  },
+  {
+   "id": "m15",
+   "act": 3,
+   "title": "Brest Fortress",
+   "date": "1941-06-22",
+   "place": "Brest-Litovsk",
+   "country": "Soviet Union",
+   "lat": 52.08,
+   "lon": 23.65,
+   "theatre": "Eastern Front",
+   "basis": "inspired",
+   "event": "Operation Barbarossa: over three million Axis soldiers invade the Soviet Union. The garrison of the Brest Fortress fights on, surrounded, for weeks.",
+   "heroes": [
+    "lena"
+   ],
+   "time": "dawn",
+   "weather": "smoke",
+   "biome": "fortress",
+   "type": "breakout",
+   "objectives": [
+    "Silence the machine-gun nests covering the Kholm Gate",
+    "Lead the wounded out through the gate",
+    "Reach the Mukhavets crossing"
+   ]
+  },
+  {
+   "id": "m16",
+   "act": 3,
+   "title": "Before Moscow",
+   "date": "1941-12-05",
+   "place": "Near Klin, Moscow region",
+   "country": "Soviet Union",
+   "lat": 56.33,
+   "lon": 36.73,
+   "theatre": "Eastern Front",
+   "basis": "inspired",
+   "event": "At -30 C the German advance stalls in sight of Moscow. On 5 December the Red Army counter-attacks along the whole front.",
+   "heroes": [
+    "lena"
+   ],
+   "time": "night",
+   "weather": "blizzard",
+   "biome": "snow-village",
+   "type": "sabotage",
+   "objectives": [
+    "Blow the fuel depot",
+    "Spike the artillery park",
+    "Steal the operations map from the headquarters izba",
+    "Bring the map to Captain Orlov"
+   ]
+  },
+  {
+   "id": "m17",
+   "act": 3,
+   "title": "Oklahoma",
+   "date": "1941-12-07",
+   "place": "Pearl Harbor, Oahu",
+   "country": "United States",
+   "lat": 21.36,
+   "lon": -157.95,
+   "theatre": "Pacific",
+   "basis": "real",
+   "event": "Japanese carrier aircraft strike Pearl Harbor. The capsized USS Oklahoma traps hundreds of men; navy yard workers cut through her hull through the night and rescue 32.",
+   "heroes": [
+    "kealoha"
+   ],
+   "time": "day",
+   "weather": "smoke",
+   "biome": "naval-base",
+   "type": "rescue / timed",
+   "objectives": [
+    "Survive the second wave",
+    "Bring the cutting gear to the upturned hull",
+    "Find the trapped men by their tapping",
+    "Cut them out before their air runs out"
+   ]
+  },
+  {
+   "id": "m18",
+   "act": 3,
+   "title": "Archery",
+   "date": "1941-12-27",
+   "place": "Vagsoy and Maloy",
+   "country": "Norway",
+   "lat": 61.93,
+   "lon": 5.11,
+   "theatre": "Northern Europe",
+   "basis": "real",
+   "event": "British and Norwegian commandos raid Vagsoy. Heavy street fighting rages in South Vagsoy, where Captain Martin Linge of the Norwegian Independent Company is killed.",
+   "heroes": [
+    "haugland",
+    "wrona",
+    "prys",
+    "kit"
+   ],
+   "time": "dawn",
+   "weather": "snow",
+   "biome": "snow-harbour",
+   "type": "assault",
+   "objectives": [
+    "Silence the coastal battery on Maloy",
+    "Destroy the fish-oil factories",
+    "Capture the harbourmaster's code documents",
+    "Evacuate the volunteers"
+   ]
+  },
+  {
+   "id": "m19",
+   "act": 4,
+   "title": "Sham Shui Po",
+   "date": "1942-01-09",
+   "place": "Sham Shui Po POW camp, Kowloon",
+   "country": "Hong Kong",
+   "lat": 22.33,
+   "lon": 114.16,
+   "theatre": "Asia",
+   "basis": "inspired",
+   "event": "Hong Kong fell on Christmas Day. Lieutenant-Colonel Lindsay Ride escapes from Sham Shui Po camp by sampan and, guided by Chinese guerrillas, reaches Free China to found the British Army Aid Group.",
+   "heroes": [
+    "kealoha",
+    "limei"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "camp-shore",
+   "type": "prison break",
+   "objectives": [
+    "Cut through the wire on the seaward side",
+    "Bring the four escapers to the sampan",
+    "Cross the bay past the patrol boats"
+   ]
+  },
+  {
+   "id": "m20",
+   "act": 4,
+   "title": "Biting",
+   "date": "1942-02-27",
+   "place": "Bruneval",
+   "country": "France",
+   "lat": 49.67,
+   "lon": 0.16,
+   "theatre": "Western Europe",
+   "basis": "real",
+   "event": "British paratroopers drop near Bruneval and seize the components of a German Wurzburg radar, carrying them off by sea for the scientists in England.",
+   "heroes": [
+    "haugland",
+    "prys",
+    "wrona",
+    "kit"
+   ],
+   "time": "night",
+   "weather": "snow",
+   "biome": "clifftop",
+   "type": "raid / theft",
+   "objectives": [
+    "Take the villa beside the radar",
+    "Protect the technician while he dismantles the Wurzburg",
+    "Capture a radar operator",
+    "Reach the beach for the boats"
+   ]
+  },
+  {
+   "id": "m21",
+   "act": 4,
+   "title": "Chariot",
+   "date": "1942-03-28",
+   "place": "St Nazaire",
+   "country": "France",
+   "lat": 47.27,
+   "lon": -2.2,
+   "theatre": "Western Europe",
+   "basis": "real",
+   "event": "The old destroyer HMS Campbeltown rams the Normandie dock gate at St Nazaire. Commandos destroy the dock machinery; at noon the Campbeltown's hidden charges explode and wreck the dock.",
+   "heroes": [
+    "haugland",
+    "wrona",
+    "prys",
+    "ndiaye"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "docks",
+   "type": "demolition",
+   "objectives": [
+    "Blow the pumping house",
+    "Wreck the gate winding houses",
+    "Fight through the old town towards open country"
+   ]
+  },
+  {
+   "id": "m22",
+   "act": 4,
+   "title": "Zhejiang",
+   "date": "1942-04-18",
+   "place": "Hills of western Zhejiang",
+   "country": "China",
+   "lat": 28.97,
+   "lon": 118.87,
+   "theatre": "China",
+   "basis": "inspired",
+   "event": "Sixteen B-25s of the Doolittle Raid bomb Tokyo and crash-land across China. Chinese villagers and guerrillas shelter the airmen; Japan's reprisals cost an estimated 250,000 Chinese lives.",
+   "heroes": [
+    "limei",
+    "kealoha",
+    "kit"
+   ],
+   "time": "night",
+   "weather": "rain",
+   "biome": "paddy-hills",
+   "type": "rescue",
+   "objectives": [
+    "Find the three downed airmen",
+    "Evade the Japanese search parties",
+    "Reach the river boat to Quzhou"
+   ]
+  },
+  {
+   "id": "m23",
+   "act": 4,
+   "title": "Ironclad",
+   "date": "1942-05-05",
+   "place": "Courrier Bay, Diego Suarez",
+   "country": "Madagascar",
+   "lat": -12.28,
+   "lon": 49.29,
+   "theatre": "Indian Ocean",
+   "basis": "real",
+   "event": "To deny Japan a base on the Indian Ocean, British forces land in Vichy-held Madagascar, commandos leading the way ashore at Courrier Bay.",
+   "heroes": [
+    "ndiaye",
+    "kealoha",
+    "prys"
+   ],
+   "time": "dawn",
+   "weather": "clear",
+   "biome": "tropical-coast",
+   "type": "assault",
+   "objectives": [
+    "Clear the beach obstacles before the landing craft arrive",
+    "Take the coastal battery",
+    "Open the road to Antsirane"
+   ]
+  },
+  {
+   "id": "m24",
+   "act": 4,
+   "title": "Anthropoid",
+   "date": "1942-05-27",
+   "place": "Liben, Prague",
+   "country": "Czechoslovakia",
+   "lat": 50.12,
+   "lon": 14.46,
+   "theatre": "Central Europe",
+   "basis": "real",
+   "event": "Czechoslovak parachutists Jozef Gabcik and Jan Kubis attack Reinhard Heydrich at a tram curve in Prague. He dies of his wounds on 4 June; Nazi reprisals destroy the village of Lidice.",
+   "heroes": [
+    "kit",
+    "wrona"
+   ],
+   "time": "day",
+   "weather": "clear",
+   "biome": "city",
+   "type": "support / escape",
+   "objectives": [
+    "Take the lookout post and signal the car's approach",
+    "Clear an escape route through the cordon",
+    "Get both parachutists to the safe house"
+   ]
+  },
+  {
+   "id": "m25",
+   "act": 4,
+   "title": "Sidi Haneish",
+   "date": "1942-07-26",
+   "place": "Sidi Haneish airfield",
+   "country": "Egypt",
+   "lat": 31.1,
+   "lon": 27.1,
+   "theatre": "North Africa",
+   "basis": "real",
+   "event": "David Stirling's SAS drive a column of armed jeeps across a moonlit Axis airfield, destroying around 37 aircraft in minutes.",
+   "heroes": [
+    "ndiaye",
+    "prys",
+    "wrona"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "desert-airfield",
+   "type": "vehicle raid",
+   "objectives": [
+    "Bring the jeeps to the airfield edge unseen",
+    "Destroy at least twenty aircraft",
+    "Escape before the dawn air search"
+   ]
+  },
+  {
+   "id": "m26",
+   "act": 4,
+   "title": "Coastwatcher",
+   "date": "1942-08-07",
+   "place": "Solomon Islands",
+   "country": "Solomon Islands",
+   "lat": -9.43,
+   "lon": 160.0,
+   "theatre": "Pacific",
+   "basis": "inspired",
+   "event": "US Marines land on Guadalcanal. Hidden in the jungle, Australian coastwatchers radio early warning of every Japanese air raid, the famous 'twenty-four bombers headed yours'.",
+   "heroes": [
+    "jack",
+    "kealoha"
+   ],
+   "time": "day",
+   "weather": "rain",
+   "biome": "jungle",
+   "type": "survival / radio",
+   "objectives": [
+    "Move the teleradio ahead of the Japanese patrols",
+    "Send the bomber warning in time",
+    "Rescue the captured island scout",
+    "Take the set and the carriers to the hill village"
+   ]
+  },
+  {
+   "id": "m27",
+   "act": 4,
+   "title": "Hess Battery",
+   "date": "1942-08-19",
+   "place": "Varengeville, near Dieppe",
+   "country": "France",
+   "lat": 49.91,
+   "lon": 0.98,
+   "theatre": "Western Europe",
+   "basis": "real",
+   "event": "The Dieppe Raid. On the western flank Lord Lovat's No. 4 Commando destroys the six guns of the Hess battery, the day's only complete success.",
+   "heroes": [
+    "prys",
+    "haugland",
+    "wrona"
+   ],
+   "time": "dawn",
+   "weather": "clear",
+   "biome": "clifftop",
+   "type": "assault",
+   "objectives": [
+    "Climb the Vasterival gully",
+    "Destroy all six guns",
+    "Blow the ammunition store",
+    "Withdraw to the beach"
+   ]
+  },
+  {
+   "id": "m28",
+   "act": 4,
+   "title": "Bertram",
+   "date": "1942-10-23",
+   "place": "El Alamein line",
+   "country": "Egypt",
+   "lat": 30.83,
+   "lon": 28.95,
+   "theatre": "North Africa",
+   "basis": "inspired",
+   "event": "Under cover of Operation Bertram, a deception of dummy tanks and a fake water pipeline, Montgomery's Eighth Army opens the Second Battle of El Alamein.",
+   "heroes": [
+    "kit",
+    "ndiaye",
+    "prys"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "desert",
+   "type": "counter-intelligence",
+   "objectives": [
+    "Stop the enemy reconnaissance patrol from reaching the dummy depot",
+    "Plant the false maps in the wrecked scout car",
+    "Let their officer see the armour from the ridge, and go home",
+    "Be clear of no-man's-land before the barrage at 21:40"
+   ]
+  },
+  {
+   "id": "m29",
+   "act": 4,
+   "title": "Pavlov's House",
+   "date": "1942-11-19",
+   "place": "Stalingrad",
+   "country": "Soviet Union",
+   "lat": 48.71,
+   "lon": 44.53,
+   "theatre": "Eastern Front",
+   "basis": "inspired",
+   "event": "In Stalingrad a handful of soldiers have held one apartment house for weeks. On 19 November Operation Uranus begins and the encirclement of the German 6th Army follows.",
+   "heroes": [
+    "lena"
+   ],
+   "time": "night",
+   "weather": "snow",
+   "biome": "ruined-city",
+   "type": "sniper / supply",
+   "objectives": [
+    "Bring ammunition through the communication trench",
+    "Eliminate the three enemy snipers",
+    "Silence the machine guns in the Milk House"
+   ]
+  },
+  {
+   "id": "m30",
+   "act": 4,
+   "title": "Cockleshell",
+   "date": "1942-12-11",
+   "place": "Gironde estuary to Bordeaux",
+   "country": "France",
+   "lat": 44.9,
+   "lon": -0.55,
+   "theatre": "Western Europe",
+   "basis": "real",
+   "event": "Operation Frankton: Royal Marines paddle canoes some 70 miles up the Gironde and fix limpet mines to blockade runners in Bordeaux harbour.",
+   "heroes": [
+    "kealoha",
+    "haugland",
+    "prys"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "estuary",
+   "type": "infiltration / sabotage",
+   "objectives": [
+    "Paddle past the patrol boats and searchlights",
+    "Fix limpet mines to six ships",
+    "Slip ashore and reach the Resistance contact"
+   ]
+  },
+  {
+   "id": "m31",
+   "act": 5,
+   "title": "Gunnerside",
+   "date": "1943-02-27",
+   "place": "Vemork, Rjukan",
+   "country": "Norway",
+   "lat": 59.87,
+   "lon": 8.49,
+   "theatre": "Northern Europe",
+   "basis": "real",
+   "event": "Norwegian commandos climb the Vemork gorge, enter the hydroelectric plant through a cable tunnel and destroy its heavy water cells, without a single shot fired.",
+   "heroes": [
+    "haugland",
+    "wrona",
+    "kit",
+    "prys"
+   ],
+   "time": "night",
+   "weather": "snow",
+   "biome": "gorge-plant",
+   "type": "infiltration / sabotage",
+   "objectives": [
+    "Cross the frozen gorge",
+    "Enter the plant through the cable tunnel",
+    "Place charges on the heavy water cells",
+    "Escape before the alarm - bonus: fire no shots"
+   ]
+  },
+  {
+   "id": "m32",
+   "act": 5,
+   "title": "Longcloth",
+   "date": "1943-03-06",
+   "place": "Nankan railway, Burma",
+   "country": "Burma",
+   "lat": 24.1,
+   "lon": 96.03,
+   "theatre": "Burma",
+   "basis": "real",
+   "event": "Orde Wingate's Chindits march deep into Japanese-held Burma; a column cuts the Mandalay-Myitkyina railway at Nankan.",
+   "heroes": [
+    "bhim",
+    "wrona",
+    "haugland"
+   ],
+   "time": "day",
+   "weather": "clear",
+   "biome": "jungle-rail",
+   "type": "sabotage",
+   "objectives": [
+    "Blow the railway in three places",
+    "Drop the girder bridge",
+    "Ambush the relief patrol",
+    "Rejoin the column at the river",
+    "Get the column across the line"
+   ]
+  },
+  {
+   "id": "m33",
+   "act": 5,
+   "title": "Mincemeat",
+   "date": "1943-04-30",
+   "place": "Huelva",
+   "country": "Spain",
+   "lat": 37.26,
+   "lon": -6.95,
+   "theatre": "Mediterranean",
+   "basis": "inspired",
+   "event": "A corpse dressed as Major William Martin, Royal Marines, washes ashore at Huelva carrying false invasion plans. The deception persuades the Germans that the Allies will land in Greece and Sardinia, not Sicily.",
+   "heroes": [
+    "kit",
+    "wrona"
+   ],
+   "time": "day",
+   "weather": "clear",
+   "biome": "spanish-town",
+   "type": "agent (no lethal force)",
+   "objectives": [
+    "Shadow the briefcase from the beach to the naval office",
+    "Make sure the German agent gets his look at the papers",
+    "Recover the briefcase unopened-looking - neutral Spain, no killing"
+   ]
+  },
+  {
+   "id": "m34",
+   "act": 5,
+   "title": "Murro di Porco",
+   "date": "1943-07-10",
+   "place": "Capo Murro di Porco",
+   "country": "Sicily, Italy",
+   "lat": 37.0,
+   "lon": 15.33,
+   "theatre": "Mediterranean",
+   "basis": "real",
+   "event": "Operation Husky: the Allies invade Sicily. The Special Raiding Squadron scales the cliffs at Capo Murro di Porco and destroys the coastal battery guarding the landings.",
+   "heroes": [
+    "prys",
+    "wrona",
+    "ndiaye",
+    "haugland"
+   ],
+   "time": "night",
+   "weather": "wind",
+   "biome": "cliff-battery",
+   "type": "assault",
+   "objectives": [
+    "Scale the cliffs",
+    "Destroy the three coastal guns",
+    "Take the battery command post",
+    "Fire the green success flare"
+   ]
+  },
+  {
+   "id": "m35",
+   "act": 5,
+   "title": "Rail War",
+   "date": "1943-08-03",
+   "place": "Railways of Belarus",
+   "country": "Soviet Union",
+   "lat": 54.0,
+   "lon": 28.5,
+   "theatre": "Eastern Front",
+   "basis": "inspired",
+   "event": "After the Battle of Kursk, Soviet partisans launch Operation Rail War, blowing tens of thousands of rails across occupied Belarus in a single night.",
+   "heroes": [
+    "lena",
+    "wrona",
+    "haugland"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "forest-rail",
+   "type": "sabotage / timed",
+   "objectives": [
+    "Blow the rails at five points within the hour",
+    "Destroy the water tower",
+    "Stop the armoured train from reaching the junction"
+   ]
+  },
+  {
+   "id": "m36",
+   "act": 5,
+   "title": "Armistice",
+   "date": "1943-09-09",
+   "place": "Campo PG 49, Fontanellato",
+   "country": "Italy",
+   "lat": 44.88,
+   "lon": 10.17,
+   "theatre": "Mediterranean",
+   "basis": "inspired",
+   "event": "Italy surrenders. At Fontanellato the Italian commandant opens the camp and the prisoners march out into the countryside about an hour before German troops arrive.",
+   "heroes": [
+    "kit",
+    "prys",
+    "ndiaye"
+   ],
+   "time": "day",
+   "weather": "clear",
+   "biome": "po-valley",
+   "type": "escort",
+   "objectives": [
+    "Lead the prisoners out through the orchard",
+    "Blow the culvert to delay the German column",
+    "Get every group into the hills"
+   ]
+  },
+  {
+   "id": "m37",
+   "act": 5,
+   "title": "Jaywick",
+   "date": "1943-09-26",
+   "place": "Keppel Harbour, Singapore",
+   "country": "Singapore",
+   "lat": 1.27,
+   "lon": 103.83,
+   "theatre": "Asia",
+   "basis": "real",
+   "event": "Australian and British commandos of Z Special Unit sail the old fishing boat Krait to Singapore, then paddle canoes into the harbour and sink or damage six Japanese ships with limpet mines.",
+   "heroes": [
+    "kealoha",
+    "jack",
+    "haugland"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "tropical-harbour",
+   "type": "infiltration / sabotage",
+   "objectives": [
+    "Paddle into Keppel Harbour unseen",
+    "Fix limpets to six ships",
+    "Reach the island hideout by dawn"
+   ]
+  },
+  {
+   "id": "m38",
+   "act": 5,
+   "title": "Oresund",
+   "date": "1943-10-02",
+   "place": "Gilleleje coast",
+   "country": "Denmark",
+   "lat": 56.12,
+   "lon": 12.31,
+   "theatre": "Northern Europe",
+   "basis": "inspired",
+   "event": "Warned of a German round-up, ordinary Danes hide their Jewish neighbours and ferry over 7,000 of them across the Oresund to neutral Sweden in fishing boats.",
+   "heroes": [
+    "kit",
+    "haugland",
+    "wrona"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "fishing-village",
+   "type": "escort (no lethal force recommended)",
+   "objectives": [
+    "Bring the families from the church loft to the harbour",
+    "Draw the harbour police away from the boats",
+    "See every boat out to sea"
+   ]
+  },
+  {
+   "id": "m39",
+   "act": 6,
+   "title": "Jericho",
+   "date": "1944-02-18",
+   "place": "Amiens prison",
+   "country": "France",
+   "lat": 49.9,
+   "lon": 2.31,
+   "theatre": "Western Europe",
+   "basis": "real",
+   "event": "RAF Mosquitos breach the walls of Amiens prison at low level, and hundreds of prisoners, many of them Resistance members facing execution, escape through the gaps.",
+   "heroes": [
+    "kit",
+    "ndiaye",
+    "wrona"
+   ],
+   "time": "day",
+   "weather": "snow",
+   "biome": "prison-town",
+   "type": "prison break",
+   "objectives": [
+    "Wait for the bombs to breach the wall at noon",
+    "Free your network's twelve prisoners",
+    "Get them to the waiting cars",
+    "Burn the Gestapo card index"
+   ]
+  },
+  {
+   "id": "m40",
+   "act": 6,
+   "title": "Tennis Court",
+   "date": "1944-04-17",
+   "place": "Kohima ridge",
+   "country": "India",
+   "lat": 25.67,
+   "lon": 94.11,
+   "theatre": "Burma",
+   "basis": "inspired",
+   "event": "At Kohima a small garrison holds the ridge against a Japanese division; the two sides fight across the Deputy Commissioner's tennis court, grenades' throw apart.",
+   "heroes": [
+    "bhim",
+    "prys",
+    "ndiaye"
+   ],
+   "time": "night",
+   "weather": "rain",
+   "biome": "hill-station",
+   "type": "defence",
+   "objectives": [
+    "Recover the supply drops that fell between the lines",
+    "Hold the tennis court terrace",
+    "Evacuate the wounded to the dressing station"
+   ]
+  },
+  {
+   "id": "m41",
+   "act": 6,
+   "title": "The General",
+   "date": "1944-04-26",
+   "place": "Archanes road, Crete",
+   "country": "Greece",
+   "lat": 35.24,
+   "lon": 25.16,
+   "theatre": "Mediterranean",
+   "basis": "real",
+   "event": "British SOE officers Patrick Leigh Fermor and Bill Stanley Moss, in German uniform, and Cretan partisans stop General Kreipe's car, drive him through Heraklion and smuggle him across the mountains to Egypt.",
+   "heroes": [
+    "kit",
+    "wrona",
+    "haugland"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "mountain",
+   "type": "abduction",
+   "objectives": [
+    "Stop the general's car at the junction, in disguise",
+    "Bluff through the Heraklion checkpoints",
+    "Cross the mountains to the evacuation beach"
+   ]
+  },
+  {
+   "id": "m42",
+   "act": 6,
+   "title": "Deadstick",
+   "date": "1944-06-06",
+   "place": "Benouville bridge",
+   "country": "France",
+   "lat": 49.24,
+   "lon": -0.27,
+   "theatre": "Western Europe",
+   "basis": "real",
+   "event": "D-Day. From 00:16 gliders land beside the Caen Canal bridge and the bridge over the Orne; within minutes both are in Allied hands.",
+   "heroes": [
+    "wrona",
+    "haugland",
+    "prys",
+    "ndiaye"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "canal-bridge",
+   "type": "assault / hold",
+   "objectives": [
+    "Take the canal bridge",
+    "Take the river bridge",
+    "Check both bridges for demolition charges",
+    "Hold until the commandos arrive with the piper"
+   ]
+  },
+  {
+   "id": "m43",
+   "act": 6,
+   "title": "Pointe du Hoc",
+   "date": "1944-06-06",
+   "place": "Pointe du Hoc",
+   "country": "France",
+   "lat": 49.4,
+   "lon": -0.99,
+   "theatre": "Western Europe",
+   "basis": "real",
+   "event": "US Army Rangers scale 100-foot cliffs under fire to reach the gun battery, find the casemates empty, and track the hidden guns to an orchard inland, where they destroy them.",
+   "heroes": [
+    "kealoha",
+    "prys",
+    "wrona"
+   ],
+   "time": "morning",
+   "weather": "overcast",
+   "biome": "clifftop",
+   "type": "assault",
+   "objectives": [
+    "Climb the cliffs",
+    "Clear the casemates",
+    "Find the missing guns",
+    "Destroy them with thermite",
+    "Cut the coast road"
+   ]
+  },
+  {
+   "id": "m44",
+   "act": 6,
+   "title": "Bagration",
+   "date": "1944-06-20",
+   "place": "Vitebsk-Orsha railway",
+   "country": "Soviet Union",
+   "lat": 54.8,
+   "lon": 29.8,
+   "theatre": "Eastern Front",
+   "basis": "inspired",
+   "event": "On the eve of Operation Bagration, partisans across Belarus cut the railways; from 22 June the Red Army destroys Army Group Centre in less than two weeks.",
+   "heroes": [
+    "lena",
+    "haugland",
+    "wrona"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "forest-rail",
+   "type": "sabotage",
+   "objectives": [
+    "Drop the railway bridge",
+    "Destroy the ammunition train",
+    "Capture the staff officer carrying the defence plans"
+   ]
+  },
+  {
+   "id": "m45",
+   "act": 6,
+   "title": "Most III",
+   "date": "1944-07-25",
+   "place": "Landing ground near Tarnow",
+   "country": "Poland",
+   "lat": 50.12,
+   "lon": 20.83,
+   "theatre": "Eastern Europe",
+   "basis": "real",
+   "event": "An RAF Dakota lands at night on a field held by the Polish Home Army and flies out the parts of a V-2 rocket; its wheels sink in the mud and it gets airborne only on the fourth attempt, 65 minutes after landing.",
+   "heroes": [
+    "wrona",
+    "kit",
+    "haugland"
+   ],
+   "time": "night",
+   "weather": "rain",
+   "biome": "farm-field",
+   "type": "defence / timed",
+   "objectives": [
+    "Secure the landing field",
+    "Bring the V-2 parts cart to the Dakota",
+    "Lay planks under the stuck wheels",
+    "Hold until take-off"
+   ]
+  },
+  {
+   "id": "m46",
+   "act": 6,
+   "title": "Is Paris Burning?",
+   "date": "1944-08-24",
+   "place": "Paris",
+   "country": "France",
+   "lat": 48.86,
+   "lon": 2.35,
+   "theatre": "Western Europe",
+   "basis": "inspired",
+   "event": "Paris rises against its occupiers. On the evening of 24 August the half-tracks of 'La Nueve', a company of Spanish Republicans in the French 2nd Armoured Division, reach the Hotel de Ville.",
+   "heroes": [
+    "ndiaye",
+    "kit",
+    "haugland"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "paris",
+   "type": "sabotage defusal",
+   "objectives": [
+    "Remove the demolition charges from three bridges",
+    "Guide La Nueve's half-tracks to the Hotel de Ville",
+    "Seize the telephone exchange"
+   ]
+  },
+  {
+   "id": "m47",
+   "act": 6,
+   "title": "Kanaly",
+   "date": "1944-09-01",
+   "place": "Old Town, Warsaw",
+   "country": "Poland",
+   "lat": 52.25,
+   "lon": 21.01,
+   "theatre": "Eastern Europe",
+   "basis": "inspired",
+   "event": "After a month of the Warsaw Uprising the Old Town falls. About 5,300 insurgents and civilians escape through the sewers, most of them to the city centre and some 800 to Żoliborz.",
+   "heroes": [
+    "wrona",
+    "zofia"
+   ],
+   "time": "night",
+   "weather": "smoke",
+   "biome": "sewers",
+   "type": "escort",
+   "objectives": [
+    "Hold Krasinski Square until the wounded are below",
+    "Lead the column through the sewers",
+    "Surface at Warecka Street"
+   ]
+  },
+  {
+   "id": "m48",
+   "act": 6,
+   "title": "Leyte",
+   "date": "1944-10-19",
+   "place": "Leyte Gulf",
+   "country": "Philippines",
+   "lat": 11.2,
+   "lon": 125.0,
+   "theatre": "Pacific",
+   "basis": "inspired",
+   "event": "On the eve of MacArthur's return to the Philippines, navy frogmen chart the landing beaches and Filipino guerrillas cut Japanese communications inland.",
+   "heroes": [
+    "rosa",
+    "kealoha",
+    "jack"
+   ],
+   "time": "day",
+   "weather": "clear",
+   "biome": "tropical-coast",
+   "type": "reconnaissance / sabotage",
+   "objectives": [
+    "Chart the beach obstacles",
+    "Spike the coastal guns",
+    "Cut the telephone line with the guerrillas"
+   ]
+  },
+  {
+   "id": "m49",
+   "act": 6,
+   "title": "Pegasus",
+   "date": "1944-10-22",
+   "place": "Rhine bank near Renkum",
+   "country": "Netherlands",
+   "lat": 51.96,
+   "lon": 5.75,
+   "theatre": "Western Europe",
+   "basis": "real",
+   "event": "A month after Arnhem, the Dutch Resistance and MI9 lead 138 hidden Allied soldiers through German lines to the Rhine, where assault boats carry them to safety.",
+   "heroes": [
+    "kit",
+    "prys",
+    "haugland"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "riverbank-woods",
+   "type": "escort",
+   "objectives": [
+    "Gather the evaders at the wood",
+    "Follow the Bofors tracer to the crossing point",
+    "Get every boat across"
+   ]
+  },
+  {
+   "id": "m50",
+   "act": 6,
+   "title": "Fuel",
+   "date": "1944-12-18",
+   "place": "Stavelot and Francorchamps",
+   "country": "Belgium",
+   "lat": 50.42,
+   "lon": 5.93,
+   "theatre": "Western Europe",
+   "basis": "inspired",
+   "event": "The Battle of the Bulge. Kampfgruppe Peiper races for the Meuse but is short of fuel; near Stavelot American troops and Belgian fusiliers set a gasoline roadblock ablaze to keep the great fuel dumps from the German tanks.",
+   "heroes": [
+    "ndiaye",
+    "prys",
+    "haugland",
+    "kit"
+   ],
+   "time": "day",
+   "weather": "fog",
+   "biome": "snow-forest",
+   "type": "denial",
+   "objectives": [
+    "Unmask the infiltrators in American uniform",
+    "Light the fuel roadblock before the Panzers arrive",
+    "Drive the fuel trucks out"
+   ]
+  },
+  {
+   "id": "m51",
+   "act": 7,
+   "title": "Cabanatuan",
+   "date": "1945-01-30",
+   "place": "Cabanatuan prison camp, Luzon",
+   "country": "Philippines",
+   "lat": 15.53,
+   "lon": 121.0,
+   "theatre": "Pacific",
+   "basis": "real",
+   "event": "US Rangers, Alamo Scouts and Filipino guerrillas raid the Cabanatuan camp 30 miles behind Japanese lines and free 489 prisoners of war and 33 civilians.",
+   "heroes": [
+    "rosa",
+    "kealoha",
+    "jack"
+   ],
+   "time": "night",
+   "weather": "clear",
+   "biome": "camp-plain",
+   "type": "rescue",
+   "objectives": [
+    "Crawl into position across the open field",
+    "Silence the towers when the attack begins",
+    "Bring the prisoners to the carabao carts",
+    "Hold the Cabu bridge until the column is clear"
+   ]
+  },
+  {
+   "id": "m52",
+   "act": 7,
+   "title": "Los Banos",
+   "date": "1945-02-23",
+   "place": "Los Banos internment camp",
+   "country": "Philippines",
+   "lat": 14.17,
+   "lon": 121.24,
+   "theatre": "Pacific",
+   "basis": "real",
+   "event": "At 07:00, while the guards do their morning exercises, paratroopers drop beside Los Banos camp; guerrillas strike the gates and amphibious tractors carry 2,147 internees to safety.",
+   "heroes": [
+    "rosa",
+    "kealoha",
+    "jack"
+   ],
+   "time": "dawn",
+   "weather": "clear",
+   "biome": "camp-lake",
+   "type": "rescue / timed",
+   "objectives": [
+    "Mark the drop zone with smoke",
+    "Seize the guards' rifle rack during exercises",
+    "Lead the internees to the amtracs"
+   ]
+  },
+  {
+   "id": "m53",
+   "act": 7,
+   "title": "Remagen",
+   "date": "1945-03-07",
+   "place": "Ludendorff Bridge, Remagen",
+   "country": "Germany",
+   "lat": 50.58,
+   "lon": 7.24,
+   "theatre": "Western Europe",
+   "basis": "real",
+   "event": "Men of the US 9th Armored Division find the Ludendorff railway bridge still standing. The German demolition charge only partly detonates, and the Americans storm across the Rhine.",
+   "heroes": [
+    "haugland",
+    "prys",
+    "ndiaye"
+   ],
+   "time": "day",
+   "weather": "overcast",
+   "biome": "river-bridge",
+   "type": "assault / timed",
+   "objectives": [
+    "Reach the bridge before it is blown",
+    "Cut the demolition cables",
+    "Take the railway tunnel on the east bank"
+   ]
+  },
+  {
+   "id": "m54",
+   "act": 7,
+   "title": "Castle Itter",
+   "date": "1945-05-05",
+   "place": "Schloss Itter, Tyrol",
+   "country": "Austria",
+   "lat": 47.47,
+   "lon": 12.14,
+   "theatre": "Central Europe",
+   "basis": "real",
+   "event": "In the war's strangest battle, American soldiers, anti-Nazi Wehrmacht troops and French VIP prisoners defend Castle Itter together against the Waffen-SS.",
+   "heroes": [
+    "kit",
+    "wrona",
+    "ndiaye",
+    "prys",
+    "haugland"
+   ],
+   "time": "day",
+   "weather": "clear",
+   "biome": "alpine-castle",
+   "type": "defence",
+   "objectives": [
+    "Reach the castle with Major Gangl's men",
+    "Hold the walls",
+    "Get a runner out to fetch the relief column",
+    "Keep every prisoner alive"
+   ]
+  },
+  {
+   "id": "m55",
+   "act": 7,
+   "title": "Cardinal",
+   "date": "1945-08-16",
+   "place": "Hoten POW camp, Mukden",
+   "country": "Manchuria, China",
+   "lat": 41.8,
+   "lon": 123.43,
+   "theatre": "China",
+   "basis": "real",
+   "event": "Hiroshima and Nagasaki are destroyed and the Soviet Union invades Manchuria. Japan announces its surrender, and an OSS team parachutes into Mukden to reach the Allied prisoners at Hoten camp.",
+   "heroes": [
+    "kealoha",
+    "kit",
+    "limei"
+   ],
+   "time": "day",
+   "weather": "clear",
+   "biome": "manchuria-camp",
+   "type": "negotiation / rescue",
+   "objectives": [
+    "Regroup after the scattered drop",
+    "Reach the camp without a firefight",
+    "Persuade the commandant to stand down",
+    "Protect the prisoners until the Soviets arrive"
+   ]
+  },
+  {
+   "id": "m56",
+   "act": 7,
+   "title": "Day 2,194",
+   "date": "1945-09-02",
+   "place": "USS Missouri, Tokyo Bay",
+   "country": "Japan",
+   "lat": 35.35,
+   "lon": 139.75,
+   "theatre": "Pacific",
+   "basis": "real",
+   "event": "Japan signs the Instrument of Surrender aboard USS Missouri. The Second World War is over.",
+   "heroes": [],
+   "time": "day",
+   "weather": "clear",
+   "biome": "none",
+   "type": "epilogue",
+   "objectives": []
+  }
+ ]
+}

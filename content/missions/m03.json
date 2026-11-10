@@ -1,0 +1,120 @@
+{
+  "id": "m03",
+  "documentary": [
+    {
+      "kind": "history",
+      "date": "1939-10-14",
+      "heading": "Scapa Flow",
+      "narration": "Just after one in the morning a U-boat slips into Scapa Flow, the Royal Navy's great anchorage in Orkney, believed impregnable. U-47, under Günther Prien, puts torpedoes into the battleship Royal Oak. She rolls over and sinks in thirteen minutes. Of the 1,234 men and boys aboard, 835 die, 134 of them boy seamen under eighteen. The war at sea has been running since the first evening, when the liner Athenia was torpedoed off Ireland.",
+      "photo": "m03_1.jpg",
+      "caption": "The battleship HMS Royal Oak in 1937, two years before she was sunk at Scapa Flow.",
+      "credit": "Royal Navy official photographer",
+      "license": "Public domain (PD-UKGov)",
+      "source": "https://commons.wikimedia.org/wiki/File:HMS_Royal_Oak_(08).jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1939-11-06",
+      "heading": "The professors",
+      "narration": "At noon the German security police summon the professors of Kraków's Jagiellonian University to Room 66 of the Collegium Novum, for a lecture on German plans for Polish education. There is no lecture. All 184 people in the hall are arrested, and before the month is out they are shipped to Sachsenhausen concentration camp; twelve die there within three months. In annexed Pomerania the killing of Polish teachers, priests and officials has already begun, in forests such as Piaśnica.",
+      "photo": "m03_2.jpg",
+      "caption": "The Collegium Novum of the Jagiellonian University, Kraków, where the academics were arrested on 6 November 1939 (photographed 2025).",
+      "credit": "Igor123121 / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2025_Krak%C3%B3w,_Collegium_Novum_Uniwersytetu_Jagiello%C5%84skiego.jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1939-11-30",
+      "heading": "The Winter War",
+      "narration": "Four days after a staged 'Finnish' shelling of the Soviet border village of Mainila, the Red Army invades Finland. Soviet bombers strike Helsinki on the first day, killing about ninety civilians, and scatter leaflets promising bread. Moscow expects a short war. Instead a nation of fewer than four million fights back in the snow, on skis and in white smocks, with petrol bombs it names after Molotov. On 14 December the League of Nations expels the Soviet Union.",
+      "photo": "m03_3.jpg",
+      "caption": "Bomb damage at the Helsinki University of Technology on Bulevardi, one of the buildings hit in the Soviet air raids of 30 November 1939.",
+      "credit": "Finnish Defence Forces (SA-kuva)",
+      "license": "Public domain (PD-Finland50)",
+      "source": "https://commons.wikimedia.org/wiki/File:Helsinki_bombardment_1939_Teknillinen_korkeakoulu.jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1939-12-13",
+      "heading": "The River Plate",
+      "narration": "At 06:18, off the estuary of the River Plate, the pocket battleship Admiral Graf Spee opens fire on the three cruisers hunting her: Exeter, Ajax and the largely New Zealand-crewed Achilles, under Commodore Henry Harwood. Exeter, battered and burning, limps away. Graf Spee, hit some seventy times, her fuel-cleaning plant smashed, breaks off and runs for neutral Montevideo. Seventy-two British and thirty-six German sailors are dead. In three months she has sunk nine merchant ships, sparing their crews.",
+      "photo": "m03_4.jpg",
+      "caption": "The cruiser HMS Achilles photographed from HMS Ajax during the Battle of the River Plate, 13 December 1939.",
+      "credit": "Royal Navy official photographer / Imperial War Museums (HU 205)",
+      "license": "Public domain (PD-UKGov)",
+      "source": "https://commons.wikimedia.org/wiki/File:HMS_Achilles_(70).jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1939-12-15",
+      "heading": "Montevideo",
+      "narration": "Graf Spee lies at anchor off Montevideo, shell holes in her hull and upperworks. Neutral Uruguay has given her seventy-two hours. Offshore the British have only three cruisers, so they fight with rumour: Admiralty signals, meant to be overheard, place the carrier Ark Royal and the battlecruiser Renown close by. The British minister, Eugen Millington-Drake, has British merchant ships sail one at a time, and by law she must wait a day behind each. Crowds line the waterfront at dusk.",
+      "photo": "m03_5.jpg",
+      "caption": "Admiral Graf Spee at anchor in Montevideo harbour in mid-December 1939, after the Battle of the River Plate.",
+      "credit": "U.S. Naval History and Heritage Command",
+      "license": "Public domain (PD-USGov-Military-Navy)",
+      "source": "https://commons.wikimedia.org/wiki/File:Graf_Spee_Arado.jpg"
+    }
+  ],
+  "briefing": {
+    "from": "The British naval attaché",
+    "text": "Miss Ashdown, good of you to come. Sit; you look like a tourist, which is the point. Graf Spee has seventy-two hours' grace, and offshore we have three tired cruisers and a great deal of bluff. First, the Admiralty wants to know how badly she is hurt. Take your camera to the quay this evening with the rest of Montevideo and photograph the shell damage: every hole you can see, bow and upperworks especially. Second, the German naval attaché's papers go out to the ship each evening in a briefcase, carried by a tall officer with binoculars. Before he goes aboard, that case must contain this signal flimsy, an apparent intercept placing Ark Royal and Renown off the estuary. It is a forgery, of course. Make its arrival look like carelessness. Third, and I cannot put this too plainly: Uruguay is neutral. No weapons and no violence. Nobody is to be hurt, not a German, not a policeman, not a dock hand. If you are caught, you are a silly Englishwoman who lost her way. Then walk out of the harbour and go to dinner."
+  },
+  "dialogue": [
+    {
+      "who": "kit",
+      "line": "A camera, a hat and a forged telegram. Mother always said I'd go far."
+    },
+    {
+      "who": "kit",
+      "line": "Half of Montevideo is on this quay. Lovely. I adore a crowd."
+    },
+    {
+      "who": "kit",
+      "line": "No weapons tonight. Just charm. I'm told mine is quite dangerous enough."
+    },
+    {
+      "who": "kit",
+      "line": "Binoculars. Who brings binoculars to a harbour at dusk? Oh. Birds."
+    }
+  ],
+  "victory": {
+    "who": "kit",
+    "line": "Photographs in the camera, the signal in his case, and not a bruise on anyone. He looked straight at me through those binoculars. I wonder what he saw."
+  },
+  "aftermath": {
+    "narration": "On the evening of 17 December, rather than lead his crew out to die against the fleet he believed was waiting, Captain Hans Langsdorff took Graf Spee into the estuary and scuttled her at 20:55. Some 20,000 people watched from the shore. Ark Royal and Renown were some 2,500 nautical miles away. The crew were ferried to Argentina and interned. Three days later Langsdorff shot himself in his Buenos Aires hotel room, lying on his ship's battle ensign. The British seamen held in her supply ship, Altmark, were still at sea.",
+    "photo": "m03_after.jpg",
+    "caption": "The scuttled Admiral Graf Spee burning in the River Plate estuary off Montevideo, December 1939.",
+    "credit": "Unknown photographer / U.S. National Archives and Records Administration",
+    "license": "Public domain (PD-USGov)",
+    "source": "https://commons.wikimedia.org/wiki/File:The_%22Graf_Spee,%22_scuttled_off_Montevideo_-_NARA_-_197095.jpg"
+  },
+  "letter": {
+    "from": "kit",
+    "to": "Mother, Chelsea",
+    "date": "1939-12-18",
+    "text": "Dearest Mother,\nMontevideo is hot, loud and full of rumours, one or two of them mine. Last night I watched a ship burn with what seemed like the whole city. People cheered, then went quiet, then bought ice creams. I didn't cheer. Somebody's boys lived on her once. I am eating well, sleeping badly and wearing the blue hat you hate. A tall German with binoculars stared at me on the quay for a full minute, as if I were some rare bird. I stared back. Please don't worry, and do feed the cat. I'll be home when the Navy, or something like it, decides.\nYour loving\nMargaret"
+  },
+  "facts": [
+    "Graf Spee sank nine merchant ships, about 50,000 tons in all, between September and December 1939. Captain Langsdorff made a point of sparing their crews.",
+    "Under the Hague Convention a warship could not leave a neutral port until 24 hours after an enemy merchant ship sailed; Britain used this to pin Graf Spee.",
+    "About 20,000 people watched from the shore as Graf Spee was scuttled in the River Plate estuary at 20:55 on 17 December 1939.",
+    "Of the 835 men who died when HMS Royal Oak was sunk at Scapa Flow on 14 October 1939, 134 were boy seamen under eighteen.",
+    "Historians now generally regard the shelling of Mainila on 26 November 1939, which Moscow blamed on Finland, as a Soviet fabrication used to justify invasion."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/HMS_Royal_Oak_(08)",
+    "https://en.wikipedia.org/wiki/SS_Athenia_(1922)",
+    "https://en.wikipedia.org/wiki/Sonderaktion_Krakau",
+    "https://en.wikipedia.org/wiki/Pia%C5%9Bnica_massacres",
+    "https://en.wikipedia.org/wiki/Intelligenzaktion_Pommern",
+    "https://en.wikipedia.org/wiki/Shelling_of_Mainila",
+    "https://en.wikipedia.org/wiki/Bombing_of_Helsinki_in_World_War_II",
+    "https://en.wikipedia.org/wiki/Winter_War",
+    "https://en.wikipedia.org/wiki/Battle_of_the_River_Plate",
+    "https://en.wikipedia.org/wiki/German_cruiser_Admiral_Graf_Spee"
+  ],
+  "corrections": []
+}

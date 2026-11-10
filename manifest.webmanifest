@@ -1,0 +1,15 @@
+{
+  "name": "Nightjars: 2,194 Days",
+  "short_name": "Nightjars",
+  "description": "A WW2 stealth-tactics campaign lived day by day, 1939–1945.",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#12110e",
+  "theme_color": "#12110e",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "dawn": {
+    "source": "polyhaven",
+    "id": "qwantani_sunrise_puresky",
+    "name": "Qwantani Sunrise (Pure Sky)",
+    "url": "https://polyhaven.com/a/qwantani_sunrise_puresky",
+    "license": "CC0",
+    "files": [
+      "dawn.hdr"
+    ],
+    "tileMeters": null,
+    "resolution": "1024x512",
+    "format": "Radiance RGBE (.hdr), equirectangular",
+    "note": "clear sunrise, sun disc on the horizon (elev ~2 deg); puresky variant (ground replaced by smooth sky continuation); decoded and re-encoded from the 1k .hdr; sun/moon at u ~0.6 (azimuth ~215 deg) in all but overcast"
+  },
+  "day": {
+    "source": "polyhaven",
+    "id": "kloofendal_48d_partly_cloudy_puresky",
+    "name": "Kloofendal 48d Partly Cloudy (Pure Sky)",
+    "url": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+    "license": "CC0",
+    "files": [
+      "day.hdr"
+    ],
+    "tileMeters": null,
+    "resolution": "1024x512",
+    "format": "Radiance RGBE (.hdr), equirectangular",
+    "note": "partly cloudy, sun at ~48 deg elevation; puresky variant (ground replaced by smooth sky continuation); decoded and re-encoded from the 1k .hdr; sun/moon at u ~0.6 (azimuth ~215 deg) in all but overcast"
+  },
+  "overcast": {
+    "source": "polyhaven",
+    "id": "overcast_soil_puresky",
+    "name": "Overcast Soil (Pure Sky)",
+    "url": "https://polyhaven.com/a/overcast_soil_puresky",
+    "license": "CC0",
+    "files": [
+      "overcast.hdr"
+    ],
+    "tileMeters": null,
+    "resolution": "1024x512",
+    "format": "Radiance RGBE (.hdr), equirectangular",
+    "note": "uniform overcast, no distinct sun; puresky variant (ground replaced by smooth sky continuation); decoded and re-encoded from the 1k .hdr; sun/moon at u ~0.6 (azimuth ~215 deg) in all but overcast"
+  },
+  "dusk": {
+    "source": "polyhaven",
+    "id": "kloppenheim_06_puresky",
+    "name": "Kloppenheim 06 (Pure Sky)",
+    "url": "https://polyhaven.com/a/kloppenheim_06_puresky",
+    "license": "CC0",
+    "files": [
+      "dusk.hdr"
+    ],
+    "tileMeters": null,
+    "resolution": "1024x512",
+    "format": "Radiance RGBE (.hdr), equirectangular",
+    "note": "sunset with clouds, sun near horizon (elev ~5 deg), low contrast; puresky variant (ground replaced by smooth sky continuation); decoded and re-encoded from the 1k .hdr; sun/moon at u ~0.6 (azimuth ~215 deg) in all but overcast"
+  },
+  "night": {
+    "source": "polyhaven",
+    "id": "kloppenheim_02_puresky",
+    "name": "Kloppenheim 02 (Pure Sky)",
+    "url": "https://polyhaven.com/a/kloppenheim_02_puresky",
+    "license": "CC0",
+    "files": [
+      "night.hdr"
+    ],
+    "tileMeters": null,
+    "resolution": "1024x512",
+    "format": "Radiance RGBE (.hdr), equirectangular",
+    "note": "clear moonlit night, moon at ~17 deg; Poly Haven normalises exposure, so scale envMapIntensity/exposure down strongly (~0.05-0.15) for a dark night; puresky variant (ground replaced by smooth sky continuation); decoded and re-encoded from the 1k .hdr; sun/moon at u ~0.6 (azimuth ~215 deg) in all but overcast"
+  }
+}

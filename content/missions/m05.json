@@ -1,0 +1,103 @@
+{
+  "id": "m05",
+  "documentary": [
+    {
+      "kind": "history",
+      "date": "1940-03-05",
+      "heading": "An order signed in Moscow",
+      "narration": "In the Kremlin, Stalin and three Politburo colleagues put their names to a memorandum from Lavrentiy Beria, head of the NKVD. It concerns the Poles captured last September: officers, many of them reservists who were doctors, lawyers and teachers, along with policemen, border guards and priests. Their cases will be settled without trial or hearing. In April and May about 22,000 of them will be shot at Katyn forest, Kharkiv, Kalinin and other sites. Families keep writing to the camps. The replies stop.",
+      "photo": "m05_1.jpg",
+      "caption": "First page of Beria's memorandum to Stalin proposing the execution of Polish prisoners, approved by the Soviet Politburo on 5 March 1940.",
+      "credit": "Lavrentiy Beria (author of the document) / Russian State Archive of Socio-Political History (RGASPI), f. 17, op. 166, d. 621",
+      "license": "Public domain (PD-RU-exempt, official document)",
+      "source": "https://commons.wikimedia.org/wiki/File:Katyn_-_decision_of_massacre_p1.jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1940-03-13",
+      "heading": "Peace, at a price",
+      "narration": "After 105 days of winter war the guns fall silent across Karelia. Over the radio, Foreign Minister Väinö Tanner reads Finland the terms signed in Moscow the night before: the Karelian Isthmus, the city of Viipuri and the shores of Lake Ladoga go to the Soviet Union. More than 400,000 Karelians load their carts and leave rather than stay. Finland has lost some 25,000 dead. The Red Army, which expected a march of a few weeks, has lost far more.",
+      "photo": "m05_2.jpg",
+      "caption": "Foreign Minister Väinö Tanner announces the end of the Winter War in a Finnish radio studio, 13 March 1940.",
+      "credit": "Archives of the Finnish Broadcasting Company Yle",
+      "license": "Public domain (PD-Finland50)",
+      "source": "https://commons.wikimedia.org/wiki/File:Foreign_Minister_V%C3%A4in%C3%B6_Tanner_tells_the_people_that_the_Winter_War_has_ended,_1940.jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1940-04-08",
+      "heading": "A warning nobody heeds",
+      "narration": "Shortly after noon, off the little harbour of Lillesand, the Polish submarine Orzeł torpedoes the German transport Rio de Janeiro. Last September Orzeł's crew overpowered their guards in Tallinn and slipped away to Britain. Norwegian boats now pull hundreds of soldiers from the cold water, and some of them admit they were sailing to occupy Norway. The report reaches parliament in Oslo that evening and is set aside. The same morning, British destroyers have laid mines off the Norwegian coast.",
+      "photo": "m05_3.jpg",
+      "caption": "The Polish submarine ORP Orzeł at Rosyth, Scotland, in early 1940.",
+      "credit": "Unknown photographer; published in W. Supiński and L. Błaszczyk, Okręty wojenne 1900-1966 (1967) / Narodowe Archiwum Cyfrowe",
+      "license": "Public domain (PD-PRL, Polish publication before 1994 without copyright notice)",
+      "source": "https://commons.wikimedia.org/wiki/File:ORP_Orzel.jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1940-04-09",
+      "heading": "Drøbak Narrows, 04:21",
+      "narration": "In the dark, the new heavy cruiser Blücher leads a German squadron up the Oslofjord, carrying troops and the staff sent to run an occupied capital. On the island fortress of Oscarsborg, 64-year-old Colonel Birger Eriksen orders his old Krupp guns to fire. Two shells and two torpedoes later Blücher is ablaze and drifting. At 06:22 she rolls over and goes down, and somewhere between 650 and 800 men die with her. The other ships turn back. Oslo has gained a few hours.",
+      "photo": "m05_4.jpg",
+      "caption": "The German heavy cruiser Blücher, burning and listing to port in the Drøbak Narrows after hits from Oscarsborg Fortress, 9 April 1940.",
+      "credit": "Unknown photographer / National Archives of Norway (Riksarkivet)",
+      "license": "Public domain (PD-Norway50)",
+      "source": "https://commons.wikimedia.org/wiki/File:BildeB3.jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1940-04-09",
+      "heading": "The road north",
+      "narration": "By afternoon German infantry are marching down Karl Johans gate as crowds look on in silence. They have come too late for the King, the government and parliament, who left by train that morning, and too late for the gold. Some fifty tonnes of it, in crates and barrels, are already moving north in 26 borrowed lorries towards the bank vault at Lillehammer. Night falls on the road. There is snow in the pine woods, and the drivers keep their headlights hooded.",
+      "photo": "m05_5.jpg",
+      "caption": "German soldiers march along Karl Johans gate in Oslo on 9 April 1940, the first day of the occupation.",
+      "credit": "Henriksen & Steen, Oslo (published in Varden)",
+      "license": "Public domain (PD-Norway50)",
+      "source": "https://commons.wikimedia.org/wiki/File:German_soldiers_in_Oslo_9_April_1940.jpg"
+    }
+  ],
+  "briefing": {
+    "from": "Colonel Arthur Thorne",
+    "text": "Wren, Kruk, and Mr Haugland, who I am told has attached himself to you with a rucksack of Norwegian Army explosive and no intention of leaving. Welcome. I shan't pretend you were expected.\n\nThe position. Norges Bank has put the national gold reserve on the road to Lillehammer: some fifty tonnes in twenty-six civilian lorries, driven by bank clerks and anyone else who can hold a wheel. German airborne troops are loose north of the capital, and one of their patrols has put a roadblock on the bridge ahead of the last section of the convoy.\n\nFirst, clear that roadblock. Quietly if you can, quickly in any case. Second, once the last lorry is across, bring the bridge down behind it. Mr Haugland will know which piers matter. Third, and above all, keep every lorry moving. None is to be captured. Not one of them is to be left behind or taken.\n\nWhatever happens in the next few weeks, Norway will need every bar of that gold to go on fighting.\n\nA.T."
+  },
+  "dialogue": [
+    { "who": "haugland", "line": "The charges go on the piers, not the deck. A deck they fix in a week. Piers take a summer." },
+    { "who": "kit", "line": "A man who plans for summer. How refreshing. Kruk, do try to look less like you're at a funeral." },
+    { "who": "wrona", "line": "In September I watched my country's gold take a road like this one. The gold escaped. We were slower." },
+    { "who": "haugland", "line": "Then tonight we are faster. That is the whole plan." },
+    { "who": "kit", "line": "Lights off, engines running. If anyone asks, we're the bank." }
+  ],
+  "victory": { "who": "haugland", "line": "The last lorry is over and the bridge is in the river. Tomorrow I will feel bad about the bridge." },
+  "aftermath": {
+    "narration": "The gold never stopped moving. From Lillehammer it went by train to Åndalsnes on 19 and 20 April, then on by lorry, cruiser and fishing boat along a coast under daily air attack. On 29 April HMS Glasgow left burning Molde with most of the crates, and with King Haakon and Crown Prince Olav aboard. The last boxes went north in fishing boats to Tromsø, where HMS Enterprise took them on to Britain. Of fifty tonnes, the only recorded loss was 297 coins from a split barrel. Norway fought on for two months. On 7 June the King sailed into exile, and on 10 June the army laid down its arms.",
+    "photo": "m05_after.jpg",
+    "caption": "Molde in ruins after the German bombing of spring 1940, photographed in July 1940.",
+    "credit": "Hallvard Løken / National Archives of Norway (Riksarkivet)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C3%98deleggelser_i_Molde_-_U2_011.jpg"
+  },
+  "letter": {
+    "from": "haugland",
+    "to": "Mor, Rjukan",
+    "date": "1940-04-12",
+    "text": "Mor,\n\nI am well and I am eating, which is what you will ask first.\n\nI cannot say where I am. It is cold, and the people I am with are strange but decent. One of them talks all the time and the other hardly at all, so between them it comes out about right.\n\nTell Far I used his trick for keeping fuse wire dry. It worked.\n\nWhen they come to Rjukan, and they will, keep your head down and your stove lit. Tell my brother to stay off the mountain this spring. It will be full of fools with rifles, and I am one of them.\n\nI will come home when it is finished.\n\nSverre"
+  },
+  "facts": [
+    "Norway's gold, about 50 tonnes in 818 large crates, 685 small crates and 39 barrels of coins, left Oslo in 26 civilian lorries on 9 April 1940.",
+    "The two Oscarsborg guns that fired on Blücher, nicknamed Moses and Aron, were 28 cm Krupp pieces made around 1900. A third, Josva, stayed silent for lack of trained gunners.",
+    "HMS Glasgow carried King Haakon VII, Crown Prince Olav and most of the gold out of burning Molde on the night of 29 April 1940.",
+    "Of roughly 50 tonnes evacuated across Norway and the North Sea, the only recorded loss was 297 gold coins from a barrel damaged in transit.",
+    "On 8 April 1940 the Polish submarine Orzeł sank the troopship Rio de Janeiro off Lillesand; survivors' admissions that they were bound for Norway went unheeded in Oslo."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flight_of_the_Norwegian_National_Treasury",
+    "https://en.wikipedia.org/wiki/Battle_of_Dr%C3%B8bak_Sound",
+    "https://en.wikipedia.org/wiki/ORP_Orze%C5%82_(1938)",
+    "https://en.wikipedia.org/wiki/Katyn_massacre",
+    "https://en.wikipedia.org/wiki/Winter_War",
+    "https://en.wikipedia.org/wiki/Moscow_Peace_Treaty",
+    "https://snl.no/gulltransporten"
+  ],
+  "corrections": []
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#14130f"/>
+  <circle cx="256" cy="230" r="150" fill="#2a261e"/>
+  <circle cx="330" cy="170" r="34" fill="#e8dcc0" opacity="0.9"/>
+  <path d="M256 250 C 205 220, 140 205, 40 222 C 120 232, 170 244, 222 262 C 188 278, 160 300, 140 330 C 190 306, 226 288, 250 278 L 262 278 C 286 288, 322 306, 372 330 C 352 300, 324 278, 290 262 C 342 244, 392 232, 472 222 C 372 205, 307 220, 256 250 Z" fill="#0b0a08" stroke="#c9a227" stroke-width="5"/>
+  <text x="256" y="440" text-anchor="middle" font-family="Oswald, Arial Narrow, sans-serif" font-weight="700" font-size="64" letter-spacing="10" fill="#e8dcc0">NIGHTJARS</text>
+</svg>

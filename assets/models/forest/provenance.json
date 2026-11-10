@@ -1,0 +1,14 @@
+{
+  "title": "First Light — imported pine forest",
+  "source": "https://polyhaven.com/a/pine_tree_01",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://polyhaven.com/license",
+  "authors": { "Rob Tuytel": "photography", "Rico Cilliers": "modeling" },
+  "sourceFile": "pine_tree_01_1k.blend",
+  "sourceMD5": "e6d9e76cc8dfb58e23813c264f7736e6",
+  "modifications": "Three artist-authored LOD2 pine variants extracted. Trunks and major boughs reduced; crowns sampled from the imported geometry and represented by crossed photographic twig cards for mobile rendering. Original RGB preserved while packing opacity; textures resized to at most 1024px and encoded as WebP quality 88. Trees scaled for tactical readability. Exported as GLB. This is a game LOD, not full-resolution photogrammetry.",
+  "additionalAssets": [{ "title": "Fern 02", "source": "https://polyhaven.com/a/fern_02", "license": "CC0-1.0", "modifications": "Original four glTF variants repackaged as GLB and instanced with varied size and rotation." }],
+  "props": "props.json records the existing scans and their mobile reductions; original campaign assets remain unchanged.",
+  "historicalEvidence": false,
+  "note": "Environment art, not a surveyed reconstruction of Tuchola Forest. Game self-hosts the assets and does not call the Poly Haven API."
+}

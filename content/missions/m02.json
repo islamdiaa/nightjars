@@ -1,0 +1,106 @@
+{
+  "id": "m02",
+  "documentary": [
+    {
+      "kind": "history",
+      "date": "1939-09-03",
+      "heading": "Allies at war",
+      "narration": "At 11:15 on Sunday 3 September Neville Chamberlain tells the British people by radio that their country is at war with Germany. France follows at five in the afternoon. In Warsaw, heedless of air raids, crowds pour into the streets; outside the British and French embassies they sing 'God Save the King' and the 'Marseillaise'. Poland's allies are in the war at last. The great offensive in the west that Poland was promised will never come.",
+      "photo": "m02_1.jpg",
+      "caption": "Crowds demonstrate outside the French embassy on Aleja Frascati in Warsaw after Britain and France declare war on Germany, 3 September 1939.",
+      "credit": "Unknown photographer; published in D. Kobielski, 'Warszawa międzywojenna' (Warsaw, 1969)",
+      "license": "Public domain (PD-Polish)",
+      "source": "https://commons.wikimedia.org/wiki/File:Demonstracja_pod_ambasad%C4%85_Francji_w_Warszawie_al._Frascati_22_w_dniu_3_wrze%C5%9Bnia_1939.jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1939-09-09",
+      "heading": "Warsaw and the Bzura",
+      "narration": "On 8 September tanks of the German 4th Panzer Division reach the south-western edge of Warsaw and are thrown back from its barricades. Each evening the mayor, Stefan Starzyński, speaks to the city on the radio, hoarse and unbowed. On the 9th the Poznań and Pomorze armies, including survivors of the fighting in the Corridor, turn south across the Bzura river into the flank of the German advance. It becomes the largest battle of the campaign.",
+      "photo": "m02_2.jpg",
+      "caption": "Polish anti-aircraft gunners during the defence of Warsaw, September 1939.",
+      "credit": "Centralna Agencja Fotograficzna (CAF) / Wojskowa Agencja Fotograficzna (WAF), Warsaw",
+      "license": "Public domain (PD-Polish)",
+      "source": "https://commons.wikimedia.org/wiki/File:Defenders_of_Warsaw_(1939).jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1939-09-13",
+      "heading": "Leave no trace",
+      "narration": "The General Staff's Cipher Bureau began its evacuation from Warsaw on 5 September. Its young mathematicians have been reading German Enigma traffic since the winter of 1932-33, and in July, at Pyry in the Kabaty woods, they showed their methods to stunned British and French colleagues. Now, near Łuck, with German tanks reported close by, the staff are ordered to destroy everything: the replica Enigmas, the equipment, the papers. Germany must never learn that its cipher has been broken.",
+      "photo": "m02_3.jpg",
+      "caption": "Memorial stone to the Cipher Bureau mathematicians Marian Rejewski, Jerzy Różycki and Henryk Zygalski in the Kabaty woods, Warsaw, near the bureau's former station at Pyry (photographed 2018).",
+      "credit": "Adrian Grycuk / Wikimedia Commons",
+      "license": "CC BY-SA 3.0 pl",
+      "source": "https://commons.wikimedia.org/wiki/File:Marian_Rejewski_Jerzy_R%C3%B3%C5%BCycki_Henryk_Zygalski_upami%C4%99tnienie_ul._Le%C5%9Bna_w_Lesie_Kabackim.jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1939-09-17",
+      "heading": "The second invasion",
+      "narration": "In the early hours of 17 September the Red Army crosses Poland's eastern frontier along its whole length: between 600,000 and 800,000 men and thousands of tanks against a thin screen of border troops. Moscow announces that the Polish state has ceased to exist. At four in the morning Marshal Rydz-Śmigły orders his forces to fall back toward Romania and Hungary and to fight the Soviets only in self-defence. Poland lies between two armies that have already agreed where to meet.",
+      "photo": "m02_4.jpg",
+      "caption": "A Red Army soldier guards a Polish PWS-26 trainer aircraft brought down near Równe (now Rivne, Ukraine), 18 September 1939.",
+      "credit": "Press agency photographer, Ministry of Information collection / Imperial War Museums (HU 87205)",
+      "license": "Public domain (PD-UKGov)",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Nazi-soviet_Invasion_of_Poland,_1939_HU87205.jpg"
+    },
+    {
+      "kind": "history",
+      "date": "1939-09-17",
+      "heading": "The bridge at Kuty",
+      "narration": "Kuty, a small market town on the Czeremosz, holds Poland's most important crossing into Romania: a wooden bridge built by army engineers in 1930. The roads to it are jammed with cars, lorries, carts and people on foot. President Ignacy Mościcki has spent his last days in Poland here. In the late hours he crosses, and the government and high command follow. Somewhere in the crush are the remaining staff of the Cipher Bureau, and three young mathematicians.",
+      "photo": "m02_5.jpg",
+      "caption": "The opening of the new bridge over the Czeremosz at Kuty, on the Polish-Romanian border, summer 1930.",
+      "credit": "Unknown photographer / Narodowe Archiwum Cyfrowe (National Digital Archive, Poland)",
+      "license": "Public domain (PD-Polish)",
+      "source": "https://commons.wikimedia.org/wiki/File:Most_w_Kutach_(1930)a.jpg"
+    }
+  ],
+  "briefing": {
+    "from": "A major of the Cipher Bureau",
+    "text": "Lieutenant Wrona. You carried our satchel out of Pomerania, so you may as well finish the errand. Three of my people were separated from the column in the crush outside Kuty. They are civilians, they are clever, and they are hiding somewhere in this town with their heads down, as instructed. Find them first. Then take them to the bridge. The streets are full of patrols: gendarmes arresting anyone who looks like a deserter, and armed bands who have been firing on Polish convoys. None of them will be kind to three gentlemen without proper papers. They may still be carrying notes, worksheets, anything in their own hand. Whatever they cannot carry on their backs, you burn, and you watch it burn. Nothing they know stays on this side of the river. Then get them across into Romania before it is light. The Soviets are coming from the east, and the Romanians will not hold the border open for ever. I cannot tell you who they are. Treat them as if they were worth more than both of us together. They are."
+  },
+  "dialogue": [
+    { "who": "wrona", "line": "Three civilians, one bridge, and the Red Army somewhere behind me. I have had better Sundays." },
+    { "who": "wrona", "line": "Moscow says they come to help us. Poland has never been helped so much in one month." },
+    { "who": "wrona", "line": "Gentlemen. No talking, no smoking, no questions. Walk where I walk." },
+    { "who": "wrona", "line": "The river does not care which side of it a man stands on. I envy it." }
+  ],
+  "victory": { "who": "wrona", "line": "They are across. I stood on the planks and looked back once, and told her: I'll come back for you." },
+  "aftermath": {
+    "narration": "The three mathematicians did not wait to be interned. At the border a Romanian officer separated soldiers from civilians; in the confusion Rejewski, Różycki and Zygalski walked to the nearest station and took the first train south. In Bucharest the British embassy told them to come back in a few days. The French telephoned Paris and sent them on at once. By the end of September they were in France, and on 20 October they were attacking Enigma again at PC Bruno, outside Paris. Warsaw capitulated on 28 September. That day in Moscow, Germany and the Soviet Union signed a treaty fixing their new border across Poland.",
+    "photo": "m02_after.jpg",
+    "caption": "Joachim von Ribbentrop signs the German-Soviet Boundary and Friendship Treaty in the Kremlin, 28 September 1939, with Stalin and Molotov standing behind him.",
+    "credit": "Unknown photographer / Bundesarchiv, Bild 183-S52480",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-S52480,_Dtsch.-Sowjet._Grenz-_u._Freundschaftsvertrag.jpg"
+  },
+  "letter": {
+    "from": "wrona",
+    "to": "Zosia, Warsaw",
+    "date": "1939-09-19",
+    "text": "Zosia,\nI am in Romania, which has good bread and terrible coffee, so it evens out. I crossed a wooden bridge in the dark with three quiet gentlemen who thanked me as if I had carried their luggage, which in fact I had. Look after Mama. Do the dishes once without being asked; it will frighten her into sitting down. When the planes come, keep your head down. When they go, keep your chin up. That is the whole of military science. The rest is paperwork. I left something on that bridge for you. Not a thing, a promise. I will come back and collect it.\nYour brother,\nTomek"
+  },
+  "facts": [
+    "In December 1932 Marian Rejewski reconstructed the wiring of the military Enigma's rotors, using permutation theory and documents supplied by French intelligence.",
+    "At Pyry, near Warsaw, on 25-26 July 1939, Polish codebreakers revealed their Enigma methods to British and French colleagues and gave each a Polish-built replica machine.",
+    "The Polish government crossed into Romania on the night of 17-18 September 1939 and was interned there. A government-in-exile under Władysław Sikorski formed in France.",
+    "In Bucharest the British embassy asked the three Polish mathematicians to come back in a few days. The French embassy arranged their journey to France at once.",
+    "On 22 September 1939 German and Soviet troops held a joint parade in Brest-Litovsk before the Germans handed the town to the Red Army."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marian_Rejewski",
+    "https://pl.wikipedia.org/wiki/Henryk_Zygalski",
+    "https://en.wikipedia.org/wiki/Cipher_Bureau_(Poland)",
+    "https://en.wikipedia.org/wiki/Kuty",
+    "https://en.wikipedia.org/wiki/Romanian_Bridgehead",
+    "https://en.wikipedia.org/wiki/Soviet_invasion_of_Poland",
+    "https://en.wikipedia.org/wiki/Battle_of_the_Bzura",
+    "https://en.wikipedia.org/wiki/Siege_of_Warsaw_(1939)",
+    "https://content.time.com/time/subscriber/article/0,33009,958453-6,00.html"
+  ],
+  "corrections": [
+    "Event text: the Cipher Bureau did not bring its secret material to the bridge. Its staff destroyed their Enigma replicas, equipment and papers in a forest near Łuck on about 13 September. The mathematicians reached the border via Kołomyja, Utopory and Kuty and crossed into Romania on 17 September (sources give the date, not the hour). Only the government's crossing is clearly a night crossing, in the late hours of 17-18 September. At the border a Romanian officer separated military from civilian personnel, and Rejewski, Różycki and Zygalski slipped away by train to Bucharest instead of being interned. The mission's 'cipher notes they cannot carry' can stand as leftover personal worksheets."
+  ]
+}

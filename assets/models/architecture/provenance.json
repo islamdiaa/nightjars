@@ -1,0 +1,31 @@
+{
+  "asset": "Modular Factory Facade",
+  "creator": "James Ray Cock",
+  "source": "https://polyhaven.com/a/modular_factory_facade",
+  "license": "CC0-1.0",
+  "licenseURL": "https://polyhaven.com/license",
+  "downloaded": "2026-11-01",
+  "modifications": "Selected period-compatible masonry/window/door/cornice modules; original UVs and surface maps, textures reduced to maximum 1024px, opaque glass; no claim of historical site reconstruction.",
+  "panels": {
+    "window": [
+      "wall_window_centered_medium_02",
+      "window_centered_medium_02"
+    ],
+    "tall": [
+      "wall_window_tall_large_01",
+      "window_tall_large_01"
+    ],
+    "blank": [
+      "wall_standard_standard_01"
+    ],
+    "door": [
+      "door_centered_small_01"
+    ],
+    "cornice": [
+      "cornice02_standard_standard_01"
+    ],
+    "plinth": [
+      "dado_standard_standard_01"
+    ]
+  }
+}

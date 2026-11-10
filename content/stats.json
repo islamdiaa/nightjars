@@ -1,0 +1,655 @@
+{
+  "datasets": [
+    {
+      "id": "enigma-milestones",
+      "title": "The secret of Enigma",
+      "subtitle": "How Poland's Cipher Bureau broke the German machine, and who learned of it",
+      "chart": "milestones",
+      "unit": "event",
+      "xLabel": "Date",
+      "yLabel": "",
+      "items": [
+        {
+          "date": "1932-12",
+          "label": "Marian Rejewski reconstructs the wiring of the German military Enigma, sight unseen, at the Polish Cipher Bureau in Warsaw."
+        },
+        {
+          "date": "1933",
+          "label": "Jerzy Różycki and Henryk Zygalski join Rejewski. Together they devise methods to break Enigma messages routinely."
+        },
+        {
+          "date": "1938-11",
+          "label": "Six 'bomby', electrically driven machines each combining six Enigmas, are ready to find the daily keys."
+        },
+        {
+          "date": "1938-12-15",
+          "label": "The German Army adds two new rotors, IV and V, complicating both the bomby and Zygalski's perforated sheets."
+        },
+        {
+          "date": "1939-07-25",
+          "label": "At Pyry, south of Warsaw, the Poles reveal their methods to British and French intelligence officers."
+        },
+        {
+          "date": "1939-08",
+          "label": "Two Polish-built Enigma replicas reach Paris. Gustave Bertrand takes one to London."
+        },
+        {
+          "date": "1939-09-17",
+          "label": "The Cipher Bureau crosses into Romania. The three mathematicians make their way to France."
+        },
+        {
+          "date": "1940-01-17",
+          "label": "At PC Bruno, near Paris, the Poles make the first break into wartime Enigma traffic."
+        },
+        {
+          "date": "1973",
+          "label": "Gustave Bertrand's book 'Enigma' begins to reveal the Polish and French origins of the Allied codebreaking."
+        },
+        {
+          "date": "1974",
+          "label": "F. W. Winterbotham's 'The Ultra Secret' makes the wartime reading of Enigma public."
+        }
+      ],
+      "takeaway": "Poland broke Enigma in 1932 and handed its secret to Britain and France five weeks before the war began.",
+      "showAfter": "m02",
+      "note": "Dates from Wikipedia's articles on Marian Rejewski and the cryptanalysis of the Enigma (citing Rejewski, Kozaczuk, Erskine and others). Rejewski received the French-supplied documents on about 9–10 December 1932. The first British bombe, 'Victory', reached Bletchley Park on 18 March 1940. The last two items look ahead: the codebreaking stayed secret until 1973–74.",
+      "sources": [
+        {
+          "label": "Wikipedia: Marian Rejewski",
+          "url": "https://en.wikipedia.org/wiki/Marian_Rejewski"
+        },
+        {
+          "label": "Wikipedia: Cryptanalysis of the Enigma",
+          "url": "https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma"
+        }
+      ]
+    },
+    {
+      "id": "battle-of-britain-aircrew",
+      "title": "Not all of the Few were British",
+      "subtitle": "Airmen from outside the United Kingdom credited with the Battle of Britain, 10 July – 31 October 1940 (top ten countries)",
+      "chart": "bar",
+      "unit": "airmen",
+      "xLabel": "Country of origin",
+      "yLabel": "Airmen",
+      "categories": ["Poland", "New Zealand", "Canada", "Czechoslovakia", "Belgium", "Australia", "South Africa", "Free France", "Ireland", "United States"],
+      "series": [
+        {
+          "name": "Airmen",
+          "values": [145, 127, 112, 84, 28, 26, 22, 13, 10, 9]
+        }
+      ],
+      "takeaway": "Nearly one in five of 'the Few' came from outside Britain; the largest foreign contingent was Polish.",
+      "showAfter": "m10",
+      "note": "The RAF roll of honour credits 2,353 British and 574 non-British airmen who flew at least one operational sortie with an eligible unit; 574 / 2,927 = 19.6%. Counts differ slightly between rolls, so the chart uses the lower figure of each range in Wikipedia's compilation: Poland 145–146, New Zealand 127–135, Czechoslovakia 84–88, Belgium 28–30, Australia 26–32, South Africa 22–25, Free France 13–14, United States 9–11. The RAF's own 75th-anniversary page gives 141 Poles, 87 Czechs, 24 Belgians and 13 Free French.",
+      "sources": [
+        {
+          "label": "Wikipedia: Non-British personnel in the RAF during the Battle of Britain",
+          "url": "https://en.wikipedia.org/wiki/Non-British_personnel_in_the_RAF_during_the_Battle_of_Britain"
+        },
+        {
+          "label": "Royal Air Force: Who were 'the Few'? (archived)",
+          "url": "https://web.archive.org/web/20160415083213/http://www.raf.mod.uk/campaign/battle-of-britain-75th/the-few/"
+        }
+      ]
+    },
+    {
+      "id": "blitz-cities",
+      "title": "The Blitz, city by city",
+      "subtitle": "Bombs dropped on British cities in major night raids, September 1940 – May 1941",
+      "chart": "bar",
+      "unit": "tons of bombs",
+      "xLabel": "City",
+      "yLabel": "Tons dropped in major raids",
+      "categories": ["London", "Liverpool and Merseyside", "Birmingham", "Glasgow and Clydeside", "Plymouth", "Bristol", "Coventry", "Portsmouth", "Southampton", "Hull", "Manchester", "Belfast"],
+      "series": [
+        {
+          "name": "Tons of bombs",
+          "values": [18291, 1957, 1852, 1329, 1228, 919, 818, 687, 647, 593, 578, 440]
+        }
+      ],
+      "takeaway": "London took more bombs in major raids than every other British city put together.",
+      "showAfter": "m11",
+      "note": "Major raids are those in which at least 100 tons were dropped; smaller raids are excluded (John Ray, The Night Blitz, 1996, p. 264, via Wikipedia). Long tons. London: 18,291 tons in 71 major raids; the 17 other cities in Ray's table total 11,974 tons. About 40,000–43,000 British civilians were killed in the Blitz (Richards 1954; Foot and Dear 2005).",
+      "sources": [
+        {
+          "label": "Wikipedia: The Blitz (table 'Big raids and combined bomb tonnage', after Ray 1996)",
+          "url": "https://en.wikipedia.org/wiki/The_Blitz"
+        }
+      ]
+    },
+    {
+      "id": "uboat-sinkings",
+      "title": "The tonnage war",
+      "subtitle": "Merchant shipping sunk by German U-boats each month, September 1939 – May 1945",
+      "chart": "line",
+      "unit": "gross tons",
+      "xLabel": "Month",
+      "yLabel": "Gross register tons sunk",
+      "categories": ["1939-09", "1939-10", "1939-11", "1939-12", "1940-01", "1940-02", "1940-03", "1940-04", "1940-05", "1940-06", "1940-07", "1940-08", "1940-09", "1940-10", "1940-11", "1940-12", "1941-01", "1941-02", "1941-03", "1941-04", "1941-05", "1941-06", "1941-07", "1941-08", "1941-09", "1941-10", "1941-11", "1941-12", "1942-01", "1942-02", "1942-03", "1942-04", "1942-05", "1942-06", "1942-07", "1942-08", "1942-09", "1942-10", "1942-11", "1942-12", "1943-01", "1943-02", "1943-03", "1943-04", "1943-05", "1943-06", "1943-07", "1943-08", "1943-09", "1943-10", "1943-11", "1943-12", "1944-01", "1944-02", "1944-03", "1944-04", "1944-05", "1944-06", "1944-07", "1944-08", "1944-09", "1944-10", "1944-11", "1944-12", "1945-01", "1945-02", "1945-03", "1945-04", "1945-05"],
+      "series": [
+        {
+          "name": "Sunk by U-boats",
+          "values": [200728, 185305, 77799, 107742, 173996, 185405, 73071, 35433, 63476, 335319, 203709, 287311, 285152, 342204, 171787, 234707, 99050, 211885, 234847, 247758, 351294, 302032, 61676, 82446, 209835, 176622, 120541, 111551, 284764, 392161, 452349, 401429, 599411, 632884, 458397, 544893, 454957, 566939, 768732, 316508, 215496, 359276, 585404, 266274, 237182, 78316, 263099, 93083, 98476, 99635, 35034, 68855, 85706, 92120, 102822, 62346, 38368, 59222, 67279, 119890, 56102, 5213, 28280, 72799, 89578, 73022, 69408, 76634, 10705]
+        }
+      ],
+      "takeaway": "U-boats sank more than 14.5 million tons of shipping. Sinkings peaked in November 1942, then collapsed within months as escorts, aircraft and codebreakers won.",
+      "showAfter": "m13",
+      "note": "Monthly totals of ships sunk or declared total losses (damaged ships excluded) from uboat.net's month-by-month listings. They cover German U-boats in every theatre; Italian and Japanese submarines, aircraft, mines and surface raiders are not included. Gross register tons. The 69 months sum to 3,065 ships and 14,555,729 tons. Peak month: November 1942, 123 ships and 768,732 tons. Low point after the turn: June 1943, 78,316 tons.",
+      "sources": [
+        {
+          "label": "uboat.net: Ships hit by U-boats, losses by month",
+          "url": "https://uboat.net/allies/merchants/losses_year.html"
+        }
+      ]
+    },
+    {
+      "id": "economic-balance",
+      "title": "The weight of industry",
+      "subtitle": "GDP of the Allied and Axis great powers, 1938–1945 (billions of international dollars at 1990 prices)",
+      "chart": "line",
+      "unit": "billion 1990 international dollars",
+      "xLabel": "Year",
+      "yLabel": "GDP, $ billion (1990 prices)",
+      "categories": ["1938", "1939", "1940", "1941", "1942", "1943", "1944", "1945"],
+      "series": [
+        {
+          "name": "Allied great powers",
+          "values": [1629, 1721, 1757, 1798, 1862, 2064, 2325, 2342]
+        },
+        {
+          "name": "Axis great powers",
+          "values": [686, 747, 835, 911, 903, 895, 748, 466]
+        }
+      ],
+      "takeaway": "In 1942 the Allied great powers out-produced the Axis two to one. By 1944 the ratio was three to one.",
+      "showAfter": "m17",
+      "note": "Harrison (1998), table 1–3, from the author's online version, which corrects an overstatement of Soviet GDP in the printed table. Allies: USA, UK and USSR in every year, France in 1938–40 and 1945, Italy in 1944–45. Axis: Germany, Austria, Italy to 1943, Japan, and occupied France 1940–44. Colonies, China and minor allies are excluded. Allied-to-Axis ratio: 1938 2.4, 1942 2.1, 1944 3.1, 1945 5.0.",
+      "sources": [
+        {
+          "label": "Mark Harrison, 'The economics of World War II: an overview', in Harrison (ed.), The Economics of World War II (Cambridge UP, 1998), author's corrected online version",
+          "url": "https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/ww2overview1998.pdf"
+        }
+      ]
+    },
+    {
+      "id": "china-estimates",
+      "title": "Counting China's dead",
+      "subtitle": "Estimates of Chinese war deaths, military and civilian, 1937–1945",
+      "chart": "bar",
+      "unit": "deaths",
+      "xLabel": "Estimate",
+      "yLabel": "Deaths",
+      "categories": ["UN report, 1947", "Odd Arne Westad", "Ho Ping-ti (15–20 million)", "R. J. Rummel", "PRC official figure", "Bianxiu Yue"],
+      "series": [
+        {
+          "name": "Estimated deaths",
+          "values": [9000000, 14000000, 17500000, 19605000, 20000000, 20600000]
+        }
+      ],
+      "takeaway": "No one could count China's dead. Serious estimates run from 9 million to more than 20 million, from 1937 to 1945.",
+      "showAfter": "m22",
+      "note": "As compiled in Wikipedia's World War II casualties article. UN report of 1947 as cited by John W. Dower. Westad: 2 million military and 12 million civilian dead, as cited by Rana Mitter (Forgotten Ally, 2013), who calls 14 million conservative. Ho Ping-ti's population study gives 15–20 million; the bar shows the midpoint. Rummel: 19,605,000, including 3.4 million Nationalist and Communist troops and 432,000 collaborator troops. The PRC's official figure is 20 million dead and 15 million wounded. The deaths-by-country chart uses 17 million, the middle of the 14–20 million range.",
+      "sources": [
+        {
+          "label": "Wikipedia: World War II casualties (China notes)",
+          "url": "https://en.wikipedia.org/wiki/World_War_II_casualties"
+        },
+        {
+          "label": "Wikipedia: Second Sino-Japanese War",
+          "url": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War"
+        }
+      ]
+    },
+    {
+      "id": "midway-carriers",
+      "title": "The carriers at Midway",
+      "subtitle": "Fleet carriers committed and sunk, 4–7 June 1942",
+      "chart": "bar",
+      "unit": "fleet carriers",
+      "xLabel": "",
+      "yLabel": "Fleet carriers",
+      "categories": ["Committed to the battle", "Sunk"],
+      "series": [
+        {
+          "name": "United States",
+          "values": [3, 1]
+        },
+        {
+          "name": "Japan",
+          "values": [4, 4]
+        }
+      ],
+      "takeaway": "Japan lost all four fleet carriers it sent to Midway, and the United States one of three. The Pacific balance tipped.",
+      "showAfter": "m25",
+      "note": "Battle of Midway infobox (Wikipedia, citing Parshall and Tully's Shattered Sword and others). US: Enterprise, Hornet and Yorktown. Japan: Akagi, Kaga, Soryu and Hiryu of the 1st Carrier Striking Force; two Japanese light carriers with other forces took no part. Other losses: about 150 US and 248 Japanese aircraft; about 307 US and 3,057 Japanese killed.",
+      "sources": [
+        {
+          "label": "Wikipedia: Battle of Midway",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Midway"
+        }
+      ]
+    },
+    {
+      "id": "axis-high-tide",
+      "title": "The Axis at high tide",
+      "subtitle": "Population of the territory held by each coalition, 1938 and 1942 (millions, at 1938 populations)",
+      "chart": "bar",
+      "unit": "million people",
+      "xLabel": "Year",
+      "yLabel": "Population, millions",
+      "categories": ["1938", "1942"],
+      "series": [
+        {
+          "name": "Allies",
+          "values": [689.7, 1195.2]
+        },
+        {
+          "name": "Axis",
+          "values": [258.9, 634.6]
+        }
+      ],
+      "takeaway": "By 1942 the Axis ruled or led 635 million people, two and a half times its prewar base. The Allies still counted 1.2 billion.",
+      "showAfter": "m26",
+      "note": "Harrison (1998), tables 1–1 and 1–2: territory within 1942 boundaries, counted at 1938 populations. Axis 1942 includes the Axis great powers, their European allies (Hungary, Romania, Bulgaria, Finland), Thailand, occupied Europe and the western USSR, and colonies seized by Japan. Japanese-occupied China is not counted for the Axis: Harrison keeps all of China outside Manchuria (411.7 million) on the Allied side. Allies 1938: Britain, France, Poland, Czechoslovakia and their empires; 1942 adds the USA, the unoccupied USSR and China.",
+      "sources": [
+        {
+          "label": "Mark Harrison, 'The economics of World War II: an overview', in Harrison (ed.), The Economics of World War II (Cambridge UP, 1998), author's corrected online version",
+          "url": "https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/ww2overview1998.pdf"
+        }
+      ]
+    },
+    {
+      "id": "aircraft-production",
+      "title": "The air factories",
+      "subtitle": "Combat aircraft built by the great powers, 1942–1945 (thousands)",
+      "chart": "line",
+      "unit": "thousand aircraft",
+      "xLabel": "Year",
+      "yLabel": "Combat aircraft, thousands",
+      "categories": ["1942", "1943", "1944", "1945"],
+      "series": [
+        {
+          "name": "United States",
+          "values": [24.9, 54.1, 74.1, 37.5]
+        },
+        {
+          "name": "Soviet Union",
+          "values": [21.7, 29.9, 33.2, 19.1]
+        },
+        {
+          "name": "United Kingdom",
+          "values": [17.7, 21.2, 22.7, 9.9]
+        },
+        {
+          "name": "Germany",
+          "values": [11.6, 19.3, 34.1, 7.2]
+        },
+        {
+          "name": "Japan",
+          "values": [6.3, 13.4, 21.0, 8.3]
+        }
+      ],
+      "takeaway": "In 1944 the United States built over 74,000 combat aircraft, more than Germany and Japan together.",
+      "showAfter": "m28",
+      "note": "Harrison (1998), table 1–6, compiled from the Soviet official history (IVMV, vol. 12). Combat aircraft only; counts of all aircraft types are higher. Harrison counts only output in months at war, so 1942–44 are full years for all five powers; 1945 covers 8 months for the USA, UK, USSR and Japan and 4 months for Germany. War totals, 1939–45: USA 192.0, USSR 112.1, UK 94.6, Germany 89.5, Japan 55.1 thousand.",
+      "sources": [
+        {
+          "label": "Mark Harrison, 'The economics of World War II: an overview', in Harrison (ed.), The Economics of World War II (Cambridge UP, 1998), author's corrected online version",
+          "url": "https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/ww2overview1998.pdf"
+        }
+      ]
+    },
+    {
+      "id": "tank-production",
+      "title": "The tank race",
+      "subtitle": "Tanks and self-propelled guns built by the great powers, 1942–1945 (thousands)",
+      "chart": "bar",
+      "unit": "thousand tanks and SPGs",
+      "xLabel": "Year",
+      "yLabel": "Tanks and self-propelled guns, thousands",
+      "categories": ["1942", "1943", "1944", "1945"],
+      "series": [
+        {
+          "name": "United States",
+          "values": [27.0, 38.5, 20.5, 12.6]
+        },
+        {
+          "name": "Soviet Union",
+          "values": [24.4, 24.1, 29.0, 20.5]
+        },
+        {
+          "name": "United Kingdom",
+          "values": [8.6, 7.5, 4.6, 2.1]
+        },
+        {
+          "name": "Germany",
+          "values": [6.2, 10.7, 18.3, 4.4]
+        },
+        {
+          "name": "Japan",
+          "values": [1.2, 0.8, 0.4, 0.2]
+        }
+      ],
+      "takeaway": "The Soviet Union and the United States each built about 100,000 tanks and self-propelled guns in the war, more than twice Germany's output.",
+      "showAfter": "m29",
+      "note": "Harrison (1998), table 1–6, compiled from the Soviet official history (IVMV, vol. 12). Harrison counts only output in months at war, so 1942–44 are full years for all five powers; 1945 covers 8 months for the USA, UK, USSR and Japan and 4 months for Germany. War totals: USSR 102.8 thousand (from June 1941), USA 99.5 (from December 1941), Germany 46.3, UK 29.3, Japan 4.8. Harrison notes that one early German figure includes armoured cars.",
+      "sources": [
+        {
+          "label": "Mark Harrison, 'The economics of World War II: an overview', in Harrison (ed.), The Economics of World War II (Cambridge UP, 1998), author's corrected online version",
+          "url": "https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/ww2overview1998.pdf"
+        }
+      ]
+    },
+    {
+      "id": "uboats-lost",
+      "title": "The hunters hunted",
+      "subtitle": "German U-boats lost each year, 1939–1945",
+      "chart": "bar",
+      "unit": "U-boats",
+      "xLabel": "Year",
+      "yLabel": "U-boats lost",
+      "categories": ["1939", "1940", "1941", "1942", "1943", "1944", "1945"],
+      "series": [
+        {
+          "name": "U-boats lost",
+          "values": [9, 24, 35, 86, 241, 234, 136]
+        }
+      ],
+      "takeaway": "Of 765 U-boats lost in the war, 611 were lost in 1943–45, once escorts and aircraft gained the upper hand.",
+      "showAfter": "m34",
+      "note": "uboat.net's monthly chart of U-boat losses: boats permanently lost to any cause (combat, air raids on bases, accidents, internment), excluding boats surrendered or scuttled in May 1945. uboat.net's year pages give slightly higher totals for 1942–44 (87, 244 and 249). The worst month was May 1943: 42 boats in the chart, 41 in uboat.net's text. About 30,000 U-boat men died, roughly three in four of the U-boat arm (Wikipedia, Battle of the Atlantic).",
+      "sources": [
+        {
+          "label": "uboat.net: Chart of U-boat losses 1939–1945",
+          "url": "https://uboat.net/fates/losses/chart.htm"
+        },
+        {
+          "label": "uboat.net: U-boat losses by year",
+          "url": "https://uboat.net/fates/losses/"
+        },
+        {
+          "label": "Wikipedia: Battle of the Atlantic",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_the_Atlantic"
+        }
+      ]
+    },
+    {
+      "id": "soe-f-section",
+      "title": "The agents of F Section",
+      "subtitle": "SOE F Section agents who died, as named on the Valençay memorial",
+      "chart": "bar",
+      "unit": "agents",
+      "xLabel": "",
+      "yLabel": "Agents who died",
+      "categories": ["Men", "Women"],
+      "series": [
+        {
+          "name": "Died",
+          "values": [91, 13]
+        }
+      ],
+      "takeaway": "More than 400 F Section agents went into France; 104 never came back. After the war Vera Atkins traced nearly every missing agent.",
+      "showAfter": "m39",
+      "note": "F Section sent more than 400 agents into occupied France between May 1941 and August 1944 and lost 104, most captured and executed by the Germans (M. R. D. Foot, SOE in France, via Wikipedia); 39–41 of the agents were women. The Valençay SOE Memorial (1991) names the 104: 91 men and 13 women. Vera Atkins traced 117 of the 118 F Section agents who disappeared in enemy territory, including 14 women; her list also includes Sonia Olschanezky, who is not on the Valençay roll. Totals differ by definition.",
+      "sources": [
+        {
+          "label": "Wikipedia: Special Operations Executive (citing Foot 2004)",
+          "url": "https://en.wikipedia.org/wiki/Special_Operations_Executive"
+        },
+        {
+          "label": "Wikipedia: Valençay SOE Memorial (roll of honour)",
+          "url": "https://en.wikipedia.org/wiki/Valen%C3%A7ay_SOE_Memorial"
+        },
+        {
+          "label": "Wikipedia: Vera Atkins",
+          "url": "https://en.wikipedia.org/wiki/Vera_Atkins"
+        }
+      ]
+    },
+    {
+      "id": "eastern-front",
+      "title": "The weight of the Eastern Front",
+      "subtitle": "Troops committed at three turning points, 1941–1944",
+      "chart": "bar",
+      "unit": "troops",
+      "xLabel": "Operation",
+      "yLabel": "Troops",
+      "categories": ["Barbarossa, June 1941", "Kursk (Operation Citadel), July 1943", "Bagration, June 1944"],
+      "series": [
+        {
+          "name": "Germany and its allies",
+          "values": [3800000, 780900, 849000]
+        },
+        {
+          "name": "Soviet Union",
+          "values": [2750000, 1910361, 1670300]
+        }
+      ],
+      "takeaway": "In 1941 the invaders outnumbered the Red Army at the front. At Bagration in 1944 the Soviets fielded about two soldiers for every German.",
+      "showAfter": "m44",
+      "note": "Wikipedia infoboxes (citing Glantz, Frieser and others). The three figures have different scopes. Barbarossa: the whole front on 22 June 1941; Axis 3.8 million including Germany's allies; Soviet frontline strength 2.6–2.9 million (midpoint shown). Kursk: Operation Citadel; the Soviet total includes 1,426,352 combat troops. Bagration: opening strength; German Army Group Centre about 849,000 in all, 486,493 of them combat troops; Soviet strength grew to about 2.5 million during the operation (Frieser).",
+      "sources": [
+        {
+          "label": "Wikipedia: Operation Barbarossa",
+          "url": "https://en.wikipedia.org/wiki/Operation_Barbarossa"
+        },
+        {
+          "label": "Wikipedia: Battle of Kursk",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Kursk"
+        },
+        {
+          "label": "Wikipedia: Operation Bagration",
+          "url": "https://en.wikipedia.org/wiki/Operation_Bagration"
+        }
+      ]
+    },
+    {
+      "id": "warsaw-uprising",
+      "title": "Sixty-three days",
+      "subtitle": "Polish deaths in the Warsaw Uprising, 1 August – 2 October 1944",
+      "chart": "bar",
+      "unit": "deaths",
+      "xLabel": "",
+      "yLabel": "Deaths",
+      "categories": ["Insurgents killed or missing", "Civilians killed"],
+      "series": [
+        {
+          "name": "Deaths",
+          "values": [15200, 175000]
+        }
+      ],
+      "takeaway": "For every insurgent who fell in Warsaw, more than ten civilians were killed, and 700,000 people were expelled from the city.",
+      "showAfter": "m47",
+      "note": "Warsaw Uprising infobox (Wikipedia). Home Army and other insurgents: 15,200 killed and missing, 5,000 wounded, 15,000 taken prisoner. Civilians: 150,000–200,000 killed (midpoint shown); estimates for the Wola and Ochota massacres alone range from 20,000 to 100,000. German losses are disputed: 2,000–17,000 killed and missing. The Soviet-allied Polish First Army suffered 5,660 casualties.",
+      "sources": [
+        {
+          "label": "Wikipedia: Warsaw Uprising",
+          "url": "https://en.wikipedia.org/wiki/Warsaw_Uprising"
+        }
+      ]
+    },
+    {
+      "id": "pow-death-rates",
+      "title": "Who survived captivity",
+      "subtitle": "Share of prisoners of war who died in captivity, by captor",
+      "chart": "bar",
+      "unit": "% died",
+      "xLabel": "",
+      "yLabel": "Died in captivity, %",
+      "categories": ["Western Allied POWs held by Germany and Italy", "Western Allied POWs held by Japan", "Soviet POWs held by Germany"],
+      "series": [
+        {
+          "name": "Died in captivity (%)",
+          "values": [4, 27, 57]
+        }
+      ],
+      "takeaway": "A Western prisoner held by Japan was nearly seven times likelier to die than one held by Germany. Soviet prisoners of Germany fared worst.",
+      "showAfter": "m51",
+      "note": "Wikipedia, Prisoners of war in World War II (comparative mortality table). Western Allied POWs held by Germany and Italy: about 4% overall (US, UK, Dutch, Australian, Canadian and New Zealand prisoners). Held by Japan: about 27–29% (an aggregate of 41,600 deaths among 145,200 prisoners); 27% is the commonly cited figure. Soviet POWs held by Germany: 3.3–3.7 million of 5.7 million died (57% shown; USHMM gives about 3.3 million dead). German POWs in Soviet hands are not shown: estimates range from 11% to 38%.",
+      "sources": [
+        {
+          "label": "Wikipedia: Prisoners of war in World War II",
+          "url": "https://en.wikipedia.org/wiki/Prisoners_of_war_in_World_War_II"
+        },
+        {
+          "label": "USHMM: Documenting Numbers of Victims of the Holocaust and Nazi Persecution",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/documenting-numbers-of-victims-of-the-holocaust-and-nazi-persecution"
+        }
+      ]
+    },
+    {
+      "id": "holocaust-by-country",
+      "title": "Six million",
+      "subtitle": "Jews murdered in the Holocaust, by prewar country (the thirteen largest losses)",
+      "chart": "bar",
+      "unit": "people murdered",
+      "xLabel": "Country (prewar borders)",
+      "yLabel": "Jews murdered",
+      "categories": ["Poland", "Soviet Union", "Hungary", "Czechoslovakia", "Romania", "Germany", "Lithuania", "Netherlands", "France", "Latvia", "Yugoslavia", "Austria", "Greece"],
+      "series": [
+        {
+          "name": "Jews murdered",
+          "values": [2885000, 1340000, 297621, 260000, 235607, 165200, 130000, 102000, 73450, 70000, 67228, 65459, 61900]
+        }
+      ],
+      "takeaway": "Nazi Germany, its allies and collaborators murdered six million Jews. About half came from Poland, where more than eight in ten Jews were killed.",
+      "showAfter": "m53",
+      "note": "USHMM Holocaust Encyclopedia, 'Jewish Losses during the Holocaust: By Country'. Where USHMM gives a range the chart shows its midpoint: Poland 2,770,000–3,000,000 (of 3,350,000 Polish Jews in 1937), Romania 211,214–260,000, France 72,900–74,000, Greece 58,800–65,000. Hungary is shown within its 1937 borders (297,621); within its 1941 borders, including annexed territory, USHMM gives 564,507, some of whom also appear under Czechoslovakia, Romania and Yugoslavia. The thirteen countries shown total about 5.8 million of the six million.",
+      "sources": [
+        {
+          "label": "USHMM: Jewish Losses during the Holocaust: By Country",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/jewish-losses-during-the-holocaust-by-country"
+        },
+        {
+          "label": "USHMM: Documenting Numbers of Victims of the Holocaust and Nazi Persecution",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/documenting-numbers-of-victims-of-the-holocaust-and-nazi-persecution"
+        }
+      ]
+    },
+    {
+      "id": "nazi-persecution-other",
+      "title": "The other victims",
+      "subtitle": "Non-Jewish groups murdered by Nazi Germany and its allies and collaborators (USHMM estimates)",
+      "chart": "bar",
+      "unit": "people killed",
+      "xLabel": "",
+      "yLabel": "People killed",
+      "categories": ["Soviet prisoners of war", "Non-Jewish Polish civilians", "Roma", "Serb civilians killed by the Ustaša", "People with disabilities"],
+      "series": [
+        {
+          "name": "People killed",
+          "values": [3300000, 1800000, 375000, 310000, 275000]
+        }
+      ],
+      "takeaway": "Beyond the six million, Nazi Germany and its allies murdered millions more: Soviet prisoners, Poles, Roma, Serbs and disabled people.",
+      "showAfter": "m54",
+      "note": "USHMM, 'Documenting Numbers of Victims of the Holocaust and Nazi Persecution'. 'Around' 3.3 million Soviet POWs and 1.8 million non-Jewish Poles. Roma: at least 250,000, possibly 500,000 (midpoint shown). Serbs: 'more than 310,000' killed by the Ustaša authorities of the Independent State of Croatia. People with disabilities living in institutions: 250,000–300,000 (midpoint shown), including at least 10,000 children. Also murdered: German political opponents (tens of thousands), Jehovah's Witnesses (about 1,700), and gay and bisexual men (hundreds, possibly thousands).",
+      "sources": [
+        {
+          "label": "USHMM: Documenting Numbers of Victims of the Holocaust and Nazi Persecution",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/documenting-numbers-of-victims-of-the-holocaust-and-nazi-persecution"
+        }
+      ]
+    },
+    {
+      "id": "atomic-bombs",
+      "title": "Two cities",
+      "subtitle": "Deaths from the atomic bombings by the end of 1945: low and high estimates",
+      "chart": "bar",
+      "unit": "deaths",
+      "xLabel": "City",
+      "yLabel": "Deaths by end of 1945",
+      "categories": ["Hiroshima, 6 August", "Nagasaki, 9 August"],
+      "series": [
+        {
+          "name": "Low estimate",
+          "values": [90000, 60000]
+        },
+        {
+          "name": "High estimate",
+          "values": [166000, 80000]
+        }
+      ],
+      "takeaway": "By the end of 1945 the two bombs had killed between 150,000 and 246,000 people, most of them civilians, about half on the first day.",
+      "showAfter": "m55",
+      "note": "Radiation Effects Research Foundation (RERF) estimates of deaths within two to four months of the bombings: Hiroshima 90,000–166,000 of a city population of 340,000–350,000; Nagasaki 60,000–80,000 of 250,000–270,000. Earlier official counts were lower (Nagasaki: 39,000 in the 1946 Manhattan Project report). Japanese reassessments in the 1970s put deaths by the end of 1945 at about 140,000 in Hiroshima and 70,000 in Nagasaki.",
+      "sources": [
+        {
+          "label": "Radiation Effects Research Foundation: FAQ",
+          "url": "https://www.rerf.or.jp/en/faq/"
+        },
+        {
+          "label": "Wikipedia: Atomic bombings of Hiroshima and Nagasaki",
+          "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki"
+        }
+      ]
+    },
+    {
+      "id": "deaths-by-country",
+      "title": "Who paid the price",
+      "subtitle": "Estimated military and civilian deaths, 1939–1945 (China from 1937)",
+      "chart": "bar-stacked",
+      "unit": "deaths",
+      "xLabel": "Country",
+      "yLabel": "Deaths",
+      "categories": ["Soviet Union", "China (1937–45)", "Germany", "Poland", "Dutch East Indies", "Japan", "India", "Yugoslavia", "Philippines", "France", "Greece", "United Kingdom", "United States"],
+      "series": [
+        {
+          "name": "Military",
+          "values": [8668000, 3000000, 5318000, 240000, 11500, 2120000, 87000, 446000, 57000, 210000, 35100, 383700, 407300]
+        },
+        {
+          "name": "Civilian",
+          "values": [15332000, 14000000, 1832000, 5480000, 3000000, 680000, 2100000, 581000, 693000, 390000, 471800, 67200, 12100]
+        }
+      ],
+      "takeaway": "The Soviet Union and China lost more than 40 million people between them. Most of the war's dead were civilians.",
+      "showAfter": "m56",
+      "note": "Mid-range figures from Wikipedia's World War II casualties table (which compiles Krivosheev, Overmans, Clodfelter, the IPN and others) and the National WWII Museum. Civilian deaths include famine and disease. USSR: military 8,668,000 (Krivosheev, Russian Ministry of Defence 1993); civilian = 24,000,000 total (National WWII Museum) minus military. Range 20–27 million; the Russian Academy of Sciences estimate is 26.6 million. China: military 3.0 million (ranges 2.0–3.75 million and 3–4 million); total 17 million, the middle of 14–20 million. Germany (with Austria and ethnic Germans abroad): military 5,318,000 (Overmans 2000); total 7,150,000, the middle of 6.9–7.4 million. Poland: military 240,000; total 5,720,000, the middle of the IPN's 5.62–5.82 million (other estimates 5.6–6.0 million), including about 3 million Polish Jews. Dutch East Indies: 11,500 military; 3 million civilians, mostly famine and forced labour (Gruhl; range 2.4–4 million). Japan: military 2,120,000; total 2.8 million, the middle of 2.5–3.1 million. India: 87,000 military (CWGC); civilian figure is the Bengal famine of 1943 alone, 2.1 million (scholarly consensus per Ó Gráda; range 0.8–3.8 million). Yugoslavia: Žerjavić's 1,027,000 (446,000 military including collaborators; 581,000 civilians); the official figure was 1.7 million. Philippines: 57,000 military; total 750,000, the middle of 0.5–1.0 million. France 210,000 + 390,000; Greece 35,100 + 471,800 (171,800 killed, plus 300,000 famine deaths; famine estimates 140,000–600,000); UK 383,700 + 67,200 (CWGC); US 407,300 + 12,100.",
+      "sources": [
+        {
+          "label": "Wikipedia: World War II casualties",
+          "url": "https://en.wikipedia.org/wiki/World_War_II_casualties"
+        },
+        {
+          "label": "National WWII Museum: Research Starters, Worldwide Deaths in World War II",
+          "url": "https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/research-starters-worldwide-deaths-world-war"
+        }
+      ]
+    },
+    {
+      "id": "cost-per-day",
+      "title": "The cost of a day",
+      "subtitle": "Average deaths per day across the 2,194 days, 1 September 1939 – 2 September 1945",
+      "chart": "bar-stacked",
+      "unit": "deaths per day",
+      "xLabel": "",
+      "yLabel": "Deaths per day",
+      "categories": ["An average day"],
+      "series": [
+        {
+          "name": "Military",
+          "values": [10597]
+        },
+        {
+          "name": "Civilian: violence and crimes",
+          "values": [13560]
+        },
+        {
+          "name": "Civilian: war-related famine and disease",
+          "values": [10711]
+        }
+      ],
+      "takeaway": "Averaged across all 2,194 days, the war killed about 35,000 people a day, seven in ten of them civilians.",
+      "showAfter": "m56",
+      "note": "Midpoints of the world totals in Wikipedia's World War II casualties table: military deaths 21.0–25.5 million -> 23,250,000; civilian deaths from military activity and crimes against humanity 29.0–30.5 million -> 29,750,000; civilian deaths from war-related famine and disease 19–28 million -> 23,500,000; sum 76,500,000 (the table's overall range is 70–85 million). Divided by 2,194 days (1 September 1939 to 2 September 1945, counting both days): 23,250,000 / 2,194 = 10,597; 29,750,000 / 2,194 = 13,560; 23,500,000 / 2,194 = 10,711; total 34,868 a day, about 1,453 an hour or 24 a minute. Using the overall midpoint of 77.5 million instead gives 35,324 a day. A rough average only: the totals include China's losses from 1937 and some deaths after the war, such as during the expulsion of Germans and in Soviet captivity.",
+      "sources": [
+        {
+          "label": "Wikipedia: World War II casualties",
+          "url": "https://en.wikipedia.org/wiki/World_War_II_casualties"
+        }
+      ]
+    }
+  ]
+}

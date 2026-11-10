@@ -1,0 +1,85 @@
+{
+  "handler": { "name": "Colonel Arthur Thorne", "role": "Commanding officer, Special Section N", "voice": "Dry, precise, quietly affectionate; ex-Royal Engineers, lost a son at Dunkirk." },
+  "heroes": {
+    "wrona": {
+      "name": "Tomasz Wrona", "short": "Wrona", "callsign": "Kruk", "nation": "Poland", "born": 1912, "role": "Infiltrator",
+      "bio": "Lieutenant of the 18th Pomeranian Uhlans. Escapes the fall of Poland through Romania to France and England. Quiet, dry, carries his mother's rosary and a promise to come home to Warsaw.",
+      "abilities": ["knife", "carry", "climb", "stone", "pistol"],
+      "colors": { "uniform": "#5a5e45", "accent": "#b33a3a" }
+    },
+    "kit": {
+      "name": "Margaret 'Kit' Ashdown", "short": "Kit", "callsign": "Wren", "nation": "Britain", "born": 1914, "role": "Agent",
+      "bio": "Raised between Strasbourg and Vienna, fluent in German, French and Spanish. Section D, then SOE. Quick, wry and utterly unafraid of anyone in a peaked cap.",
+      "abilities": ["disguise", "distract", "chloroform", "lockpick", "welrod"],
+      "colors": { "uniform": "#4b4a5c", "accent": "#c9a227" }
+    },
+    "haugland": {
+      "name": "Sverre Haugland", "short": "Haugland", "callsign": "Troll", "nation": "Norway", "born": 1916, "role": "Sapper",
+      "bio": "Electrician at the Norsk Hydro plant at Vemork before the war; skier, mountaineer, Kompani Linge. Says little, trusts explosives because 'they never lie'.",
+      "abilities": ["charge", "timer", "cutters", "grenade", "pistol"],
+      "colors": { "uniform": "#4a5560", "accent": "#d8d8d8" }
+    },
+    "prys": {
+      "name": "Owen Prys", "short": "Prys", "callsign": "Choir", "nation": "Wales", "born": 1919, "role": "Marksman",
+      "bio": "A miner's son from Merthyr Tydfil who learned to shoot after rabbits and sang in the chapel choir. Joins the Commandos after Dunkirk. Grows up fast.",
+      "abilities": ["rifle", "binoculars", "whistle", "pistol"],
+      "colors": { "uniform": "#6b5b3e", "accent": "#2f6b3a" }
+    },
+    "ndiaye": {
+      "name": "Idrissa Ndiaye", "short": "Ndiaye", "callsign": "Baobab", "nation": "Senegal / Free France", "born": 1910, "role": "Gunner",
+      "bio": "Sergent of the Tirailleurs senegalais, evacuated from Dunkirk, rallied to de Gaulle in Chad. Mechanic, driver and machine-gunner; patient, paternal, fond of proverbs.",
+      "abilities": ["bren", "punch", "carry", "grenade", "drive"],
+      "colors": { "uniform": "#7a6a45", "accent": "#a8322d" }
+    },
+    "kealoha": {
+      "name": "Daniel 'Danny' Kealoha", "short": "Kealoha", "callsign": "Moana", "nation": "United States (Hawaii)", "born": 1918, "role": "Diver",
+      "bio": "Navy diver at Pearl Harbor on 7 December 1941, later an Underwater Demolition Team frogman. Easy-going, plays the ukulele, at home in any water.",
+      "abilities": ["swim", "knife", "limpet", "boat", "pistol"],
+      "colors": { "uniform": "#3d5a6b", "accent": "#e0b040" }
+    }
+  },
+  "guests": {
+    "lena": {
+      "name": "Lena Sokolova", "short": "Lena", "callsign": "Sova", "nation": "Soviet Union", "born": 1920, "role": "Scout-Sniper",
+      "bio": "A schoolteacher from Smolensk turned scout-sniper. Patient as winter, wary of everyone, including the Poles and the British.",
+      "abilities": ["silentrifle", "camouflage", "binoculars", "knife"],
+      "colors": { "uniform": "#6b6f4a", "accent": "#a33" }
+    },
+    "limei": {
+      "name": "Li Mei", "short": "Li Mei", "callsign": "Swallow", "nation": "China", "born": 1921, "role": "Guide",
+      "bio": "A village schoolteacher's daughter from Zhejiang who has fought Japan since 1937. Knows every path, smuggles anything, laughs at danger.",
+      "abilities": ["knife", "firecracker", "scout", "carry"],
+      "colors": { "uniform": "#3f4a5a", "accent": "#c33" }
+    },
+    "bhim": {
+      "name": "Bhim Bahadur Gurung", "short": "Bhim", "callsign": "Khukuri", "nation": "Nepal (Gurkha)", "born": 1915, "role": "Gurkha",
+      "bio": "Havildar of the 2nd Gurkha Rifles, a Chindit. Unhurried, courteous, and the most dangerous man in any jungle.",
+      "abilities": ["kukri", "carry", "grenade", "pistol"],
+      "colors": { "uniform": "#4f5a3a", "accent": "#222" }
+    },
+    "jack": {
+      "name": "Jack McKenna", "short": "Jack", "callsign": "Ferdinand", "nation": "Australia", "born": 1905, "role": "Coastwatcher",
+      "bio": "A Queensland plantation manager turned coastwatcher. Lives on tinned bully beef and nerve; his teleradio is his whole world.",
+      "abilities": ["rifle", "binoculars", "knife", "radio"],
+      "colors": { "uniform": "#7a7350", "accent": "#2d5d2d" }
+    },
+    "rosa": {
+      "name": "Rosa Dizon", "short": "Rosa", "callsign": "Kalapati", "nation": "Philippines", "born": 1922, "role": "Guerrilla",
+      "bio": "A nursing student from Nueva Ecija who joined the guerrillas in 1942. Moves through occupied towns as a market girl; carries a bolo and a list of names.",
+      "abilities": ["bolo", "civilian", "whistle", "carry"],
+      "colors": { "uniform": "#6a4a3a", "accent": "#e8d8b0" }
+    },
+    "zofia": {
+      "name": "Zofia Wrona", "short": "Zofia", "callsign": "Iskra", "nation": "Poland", "born": 1927, "role": "Liaison",
+      "bio": "Tomasz's little sister, seventeen, a Home Army liaison girl who has carried messages through the Warsaw sewers since the first week of the Uprising. Knows every junction by touch.",
+      "abilities": ["guide", "stone", "carry"],
+      "colors": { "uniform": "#5b4b3b", "accent": "#d33" }
+    }
+  },
+  "cast": {
+    "thorne": { "name": "Colonel Arthur Thorne", "role": "Commanding officer of Special Section N until his death in the Guards Chapel V-1 strike, 18 June 1944." },
+    "vahl": { "name": "Hauptmann Erich Vahl", "role": "Abwehr officer, Bremen lawyer, amateur ornithologist. Names the unit 'Nachtschwalben' in 1940; runs the radio game that destroys Kit's network in 1943; fights beside the Nightjars at Itter in 1945." },
+    "zaremba": { "name": "Rotmistrz Jan Zaremba", "role": "Wrona's squadron commander in September 1939 (fictional)." },
+    "orlov": { "name": "Captain Orlov", "role": "Lena's ski-battalion commander in December 1941 (fictional)." }
+  }
+}
